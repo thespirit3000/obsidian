@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/100 промптов для ChatGPT.md",
+                "file": "Z-core/Фильтр в пылесос Karcher w2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/100 промптов для ChatGPT.md",
+                "file": "Z-core/Фильтр в пылесос Karcher w2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/100 промптов для ChatGPT.md",
+                "file": "Z-core/Фильтр в пылесос Karcher w2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/100 промптов для ChatGPT.md"
+                "file": "Z-core/Фильтр в пылесос Karcher w2.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +146,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "31eee4fd4f5e7fa9",
+  "active": "640ebe2560da7e98",
   "lastOpenFiles": [
-    "Z-core/TensorFlow.md",
     "Z-core/100 промптов для ChatGPT.md",
+    "Z-core/Фильтр в пылесос Karcher w2.md",
+    "Z-core/TensorFlow.md",
     "Z-core/Zettelkasten и Обсидиан.md",
     "Z-core/TensorFlow для начинающих..md",
     "Z-core/00 Маркетплейсы.md",
