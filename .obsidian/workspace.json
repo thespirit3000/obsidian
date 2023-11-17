@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "3c185149468450ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "39f024d094896b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "befdf52395d55490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f05319d270eeda28",
+    "type": "split",
+    "children": [
+      {
+        "id": "a904ada9bc96dd8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca650f393a866e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ebf9df9ece65054",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edb3dcc2a41c3843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aac70db385944696",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5fe88f2bf479566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663d8fb1e9517b5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9a1df3950d7b1b40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "640ebe2560da7e98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abf9f2307039dc76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "befdf52395d55490",
+  "lastOpenFiles": [
+    "daily/Работа.md",
+    "daily/Списание BOsh GBH3-28 DRE.md",
+    "daily/Инструмент.md",
+    "daily/схема GTD.md",
+    "daily/2023-11-14.md",
+    "daily/правил Zettelcasten.md",
+    "Z-core/00 Youtube.md",
+    "daily/Обсидиан и Zettelcasten.md",
+    "Z-core/На маркетплейсах с Лео Шевченко.md",
+    "Z-core/00 Маркетплейсы.md",
+    "daily/Продуктивность.md",
+    "Z-core/Zettelkasten и Обсидиан.md",
+    "Z-core/00 Порядок.md",
+    "Z-core/00 Zettelkasten.md",
+    "templates/New note.md",
+    "templates/Daily note.md",
+    "templates/daily.md",
+    "daily/BOsh GBH3-28 DRE.md",
+    "files/Pasted image 20231114155856.png",
+    "files/Pasted image 20231114122939.png",
+    "daily/Zettel.md",
+    "files",
+    "Z-core",
+    "templates",
+    "daily"
+  ]
+}
