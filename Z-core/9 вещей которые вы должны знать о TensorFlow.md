@@ -25,5 +25,4 @@ Tags: #qwest
 
 ---
 ### Links
-
--
+- [9 вещей, которые вы должны знать о TensorFlow (datastart.ru)](https://datastart.ru/blog/read/9-veschey-kotorye-vy-dolzhny-znat-o-tensorflow)

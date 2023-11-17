@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38ff2fb452d4b6d5",
+        "id": "0f67703611c9361b",
         "type": "tabs",
         "children": [
           {
-            "id": "40929872024ca7f3",
+            "id": "31eee4fd4f5e7fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
+                "file": "Z-core/TensorFlow для начинающих..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
+                "file": "Z-core/TensorFlow для начинающих..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
+                "file": "Z-core/TensorFlow для начинающих..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/9 вещей которые вы должны знать о TensorFlow.md"
+                "file": "Z-core/TensorFlow для начинающих..md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "40929872024ca7f3",
+  "active": "31eee4fd4f5e7fa9",
   "lastOpenFiles": [
-    "Z-core/TensorFlow.md",
+    "Z-core/TensorFlow для начинающих..md",
     "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
+    "Z-core/TensorFlow.md",
     "README.md",
     "daily/Работа.md",
     "daily/Списание BOsh GBH3-28 DRE.md",
