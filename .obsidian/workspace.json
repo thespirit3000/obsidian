@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/TensorFlow для начинающих..md",
+                "file": "Z-core/100 промптов для ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#qwest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/TensorFlow для начинающих..md",
+                "file": "Z-core/100 промптов для ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/TensorFlow для начинающих..md",
+                "file": "Z-core/100 промптов для ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/TensorFlow для начинающих..md"
+                "file": "Z-core/100 промптов для ChatGPT.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +149,16 @@
   },
   "active": "31eee4fd4f5e7fa9",
   "lastOpenFiles": [
-    "Z-core/TensorFlow для начинающих..md",
-    "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
     "Z-core/TensorFlow.md",
+    "Z-core/100 промптов для ChatGPT.md",
+    "Z-core/Zettelkasten и Обсидиан.md",
+    "Z-core/TensorFlow для начинающих..md",
+    "Z-core/00 Маркетплейсы.md",
+    "Z-core/00 Порядок.md",
+    "Z-core/00 Youtube.md",
+    "Z-core/00 Zettelkasten.md",
+    "daily/2023-11-17.md",
+    "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
     "README.md",
     "daily/Работа.md",
     "daily/Списание BOsh GBH3-28 DRE.md",
@@ -158,14 +166,9 @@
     "daily/схема GTD.md",
     "daily/2023-11-14.md",
     "daily/правил Zettelcasten.md",
-    "Z-core/00 Youtube.md",
     "daily/Обсидиан и Zettelcasten.md",
     "Z-core/На маркетплейсах с Лео Шевченко.md",
-    "Z-core/00 Маркетплейсы.md",
     "daily/Продуктивность.md",
-    "Z-core/Zettelkasten и Обсидиан.md",
-    "Z-core/00 Порядок.md",
-    "Z-core/00 Zettelkasten.md",
     "templates/New note.md",
     "templates/Daily note.md",
     "templates/daily.md",

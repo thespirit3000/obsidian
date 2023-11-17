@@ -2,6 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Z-core",
   "attachmentFolderPath": "files",
-  "vimMode": true,
+  "vimMode": false,
   "showInlineTitle": false
 }

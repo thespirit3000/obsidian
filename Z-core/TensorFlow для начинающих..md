@@ -10,13 +10,12 @@ Tags: #qwest
 pip install tensorflow
 ```
 
-
 ---
 ### Zero-links
 
-- 
-
+- [00 Машинное обучение]
+- [00 TensorFlow]
 ---
 ### Links
 
--
+- [TensorFlow для начинающих.](https://habr.com/ru/companies/ruvds/articles/450314/)
