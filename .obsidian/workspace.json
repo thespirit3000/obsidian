@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Z-core/TensorFlow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Z-core/TensorFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Z-core/TensorFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Z-core/TensorFlow.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "befdf52395d55490",
   "lastOpenFiles": [
+    "README.md",
+    "Z-core/TensorFlow.md",
     "daily/Работа.md",
     "daily/Списание BOsh GBH3-28 DRE.md",
     "daily/Инструмент.md",
