@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f67703611c9361b",
+        "id": "4c8281f04bbfaa35",
         "type": "tabs",
         "children": [
           {
-            "id": "31eee4fd4f5e7fa9",
+            "id": "56af68a44b04d2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Фильтр в пылесос Karcher w2.md",
+                "file": "daily/Скорость на экране принтера.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#qwest",
+                "query": "file 00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Фильтр в пылесос Karcher w2.md",
+                "file": "daily/Скорость на экране принтера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Фильтр в пылесос Karcher w2.md",
+                "file": "daily/Скорость на экране принтера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Фильтр в пылесос Karcher w2.md"
+                "file": "daily/Скорость на экране принтера.md"
               }
             }
           }
@@ -138,44 +138,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "640ebe2560da7e98",
+  "active": "56af68a44b04d2a9",
   "lastOpenFiles": [
+    "daily/Инструмент.md",
+    "daily/Работа.md",
+    "Z-core/00 Машинное обучение.md",
+    "Z-core/TensorFlow для начинающих..md",
+    "Z-core/Zettelkasten и Обсидиан.md",
     "Z-core/100 промптов для ChatGPT.md",
+    "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
+    "Z-core/00 Порядок.md",
+    "Z-core/00 Маркетплейсы.md",
+    "templates/Daily note.md",
+    "daily/схема GTD.md",
+    "daily/Списание BOsh GBH3-28 DRE.md",
+    "daily/Скорость на экране принтера.md",
     "Z-core/Фильтр в пылесос Karcher w2.md",
     "Z-core/TensorFlow.md",
-    "Z-core/Zettelkasten и Обсидиан.md",
-    "Z-core/TensorFlow для начинающих..md",
-    "Z-core/00 Маркетплейсы.md",
-    "Z-core/00 Порядок.md",
     "Z-core/00 Youtube.md",
     "Z-core/00 Zettelkasten.md",
     "daily/2023-11-17.md",
-    "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
     "README.md",
-    "daily/Работа.md",
-    "daily/Списание BOsh GBH3-28 DRE.md",
-    "daily/Инструмент.md",
-    "daily/схема GTD.md",
     "daily/2023-11-14.md",
     "daily/правил Zettelcasten.md",
     "daily/Обсидиан и Zettelcasten.md",
     "Z-core/На маркетплейсах с Лео Шевченко.md",
     "daily/Продуктивность.md",
     "templates/New note.md",
-    "templates/Daily note.md",
     "templates/daily.md",
-    "daily/BOsh GBH3-28 DRE.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
-    "daily/Zettel.md",
     "files",
     "Z-core",
     "templates",
