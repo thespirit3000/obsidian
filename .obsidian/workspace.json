@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "29f30e22053bfe1f",
   "lastOpenFiles": [
-    "Z-core/00 Obsidian.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
+    "Z-core/00 3D печать.md",
+    "Z-core/00 DIY.md",
+    "Z-core/00 ЧПУ.md",
     "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
+    "Z-core/00 Obsidian.md",
     "Z-core/схема GTD.md",
     "daily/Списание BOsh GBH3-28 DRE.md",
     "daily/Инструмент.md",
     "Z-core/00 GTD.md",
     "Z-core/Отображение скорости на экране принтера.md",
     "Z-core/00 3D принтер.md",
-    "Z-core/00 3D печать.md",
     "daily/Работа.md",
     "Z-core/00 Машинное обучение.md",
     "Z-core/TensorFlow для начинающих..md",
@@ -171,9 +174,6 @@
     "Z-core/00 Youtube.md",
     "Z-core/00 Zettelkasten.md",
     "daily/2023-11-17.md",
-    "README.md",
-    "daily/2023-11-14.md",
-    "daily/правил Zettelcasten.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
