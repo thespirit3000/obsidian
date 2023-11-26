@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8281f04bbfaa35",
+        "id": "cac9ce01a8413233",
         "type": "tabs",
         "children": [
           {
-            "id": "56af68a44b04d2a9",
+            "id": "29f30e22053bfe1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Скорость на экране принтера.md",
+                "file": "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file 00",
+                "query": "tag:#article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Скорость на экране принтера.md",
+                "file": "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Скорость на экране принтера.md",
+                "file": "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Скорость на экране принтера.md"
+                "file": "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md"
               }
             }
           }
@@ -146,9 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56af68a44b04d2a9",
+  "active": "29f30e22053bfe1f",
   "lastOpenFiles": [
+    "Z-core/00 Obsidian.md",
+    "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
+    "Z-core/схема GTD.md",
+    "daily/Списание BOsh GBH3-28 DRE.md",
     "daily/Инструмент.md",
+    "Z-core/00 GTD.md",
+    "Z-core/Отображение скорости на экране принтера.md",
+    "Z-core/00 3D принтер.md",
+    "Z-core/00 3D печать.md",
     "daily/Работа.md",
     "Z-core/00 Машинное обучение.md",
     "Z-core/TensorFlow для начинающих..md",
@@ -158,9 +166,6 @@
     "Z-core/00 Порядок.md",
     "Z-core/00 Маркетплейсы.md",
     "templates/Daily note.md",
-    "daily/схема GTD.md",
-    "daily/Списание BOsh GBH3-28 DRE.md",
-    "daily/Скорость на экране принтера.md",
     "Z-core/Фильтр в пылесос Karcher w2.md",
     "Z-core/TensorFlow.md",
     "Z-core/00 Youtube.md",
@@ -169,11 +174,6 @@
     "README.md",
     "daily/2023-11-14.md",
     "daily/правил Zettelcasten.md",
-    "daily/Обсидиан и Zettelcasten.md",
-    "Z-core/На маркетплейсах с Лео Шевченко.md",
-    "daily/Продуктивность.md",
-    "templates/New note.md",
-    "templates/daily.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
