@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb07a9e4f149ef7",
+        "id": "c0b4687d530b7669",
         "type": "tabs",
         "children": [
           {
-            "id": "b8365d31bf4ea27b",
+            "id": "b64ba571c486a8e8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,7 +137,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8365d31bf4ea27b",
+  "active": "b64ba571c486a8e8",
   "lastOpenFiles": [
     "Z-core/00 Работа.md",
     "Z-core/Установка Lotus Notes.md",
