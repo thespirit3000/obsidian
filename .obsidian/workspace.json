@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,12 +148,13 @@
   },
   "active": "29f30e22053bfe1f",
   "lastOpenFiles": [
+    "Z-core/00 ЧПУ.md",
+    "Z-core/00 DIY.md",
+    "Untitled",
+    "Z-core/ЧПУ фрезер своими руками.md",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
-    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/00 3D печать.md",
-    "Z-core/00 DIY.md",
-    "Z-core/00 ЧПУ.md",
     "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
     "Z-core/00 Obsidian.md",
     "Z-core/схема GTD.md",
