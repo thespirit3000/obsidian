@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cac9ce01a8413233",
+        "id": "ceb07a9e4f149ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "29f30e22053bfe1f",
+            "id": "b8365d31bf4ea27b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +137,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29f30e22053bfe1f",
+  "active": "b8365d31bf4ea27b",
   "lastOpenFiles": [
+    "Z-core/00 Работа.md",
+    "Z-core/Установка Lotus Notes.md",
+    "Z-core/00 Lotus.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/00 ЧПУ.md",
     "Z-core/00 DIY.md",
     "Untitled",
-    "Z-core/ЧПУ фрезер своими руками.md",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
     "Z-core/00 3D печать.md",
@@ -174,8 +168,6 @@
     "templates/Daily note.md",
     "Z-core/Фильтр в пылесос Karcher w2.md",
     "Z-core/TensorFlow.md",
-    "Z-core/00 Youtube.md",
-    "Z-core/00 Zettelkasten.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
