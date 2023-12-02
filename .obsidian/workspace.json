@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Blender tutorials.md",
+                "file": "Z-core/Школа Kaino - курс Dungeon.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Blender tutorials.md",
+                "file": "Z-core/Школа Kaino - курс Dungeon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Blender tutorials.md",
+                "file": "Z-core/Школа Kaino - курс Dungeon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Blender tutorials.md"
+                "file": "Z-core/Школа Kaino - курс Dungeon.md"
               }
             }
           }
@@ -149,6 +150,10 @@
   "active": "69e5499a8be45fd8",
   "lastOpenFiles": [
     "Z-core/Blender tutorials.md",
+    "Z-core/00 Моделирование.md",
+    "Z-core/00 3d.md",
+    "Z-core/00 Blender.md",
+    "Z-core/Школа Kaino - курс Dungeon.md",
     "Z-core/00 Рецепты.md",
     "Z-core/Untitled.md",
     "Z-core/00 Работа.md",
@@ -173,10 +178,6 @@
     "Z-core/00 Машинное обучение.md",
     "Z-core/TensorFlow для начинающих..md",
     "Z-core/Zettelkasten и Обсидиан.md",
-    "Z-core/100 промптов для ChatGPT.md",
-    "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
-    "Z-core/00 Порядок.md",
-    "Z-core/00 Маркетплейсы.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
