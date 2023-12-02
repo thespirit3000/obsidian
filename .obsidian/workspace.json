@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/00 3D печать.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,11 +48,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#video",
+                "query": "file: 00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/00 3D печать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/00 3D печать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "Z-core/00 3D печать.md"
               }
             }
           }
@@ -146,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69e5499a8be45fd8",
+  "active": "0ebf9df9ece65054",
   "lastOpenFiles": [
+    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/00 3d.md",
     "Z-core/00 3D печать.md",
     "Z-core/00 3D принтер.md",
@@ -160,7 +162,6 @@
     "Z-core/00 Работа.md",
     "Z-core/Установка Lotus Notes.md",
     "Z-core/00 Lotus.md",
-    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/00 ЧПУ.md",
     "Z-core/00 DIY.md",
     "Untitled",
