@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/00 3D печать.md",
+                "file": "Z-core/00 Youtube.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/00 3D печать.md",
+                "file": "Z-core/00 Youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/00 3D печать.md",
+                "file": "Z-core/00 Youtube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +126,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/00 3D печать.md"
+                "file": "Z-core/00 Youtube.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,18 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ebf9df9ece65054",
+  "active": "69e5499a8be45fd8",
   "lastOpenFiles": [
+    "Z-core/Маринованные шампиньоны.md",
+    "Z-core/00 Рецепты.md",
+    "Z-core/00 Маркетплейсы.md",
+    "Z-core/00 3D печать.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/00 3d.md",
-    "Z-core/00 3D печать.md",
     "Z-core/00 3D принтер.md",
     "Z-core/Школа Kaino - курс Dungeon.md",
     "Z-core/Blender tutorials.md",
     "Z-core/00 Моделирование.md",
     "Z-core/00 Blender.md",
-    "Z-core/00 Рецепты.md",
-    "Z-core/Untitled.md",
     "Z-core/00 Работа.md",
     "Z-core/Установка Lotus Notes.md",
     "Z-core/00 Lotus.md",
@@ -177,7 +177,6 @@
     "daily/Работа.md",
     "Z-core/00 Машинное обучение.md",
     "Z-core/TensorFlow для начинающих..md",
-    "Z-core/Zettelkasten и Обсидиан.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
