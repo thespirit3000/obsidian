@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/00 Youtube.md",
+                "file": "Z-core/Calendar.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/00 Youtube.md",
+                "file": "Z-core/Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/00 Youtube.md",
+                "file": "Z-core/Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/00 Youtube.md"
+                "file": "Z-core/Calendar.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "69e5499a8be45fd8",
   "lastOpenFiles": [
+    "Z-core/00 Youtube.md",
+    "Z-core/Calendar.md",
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/00 Рецепты.md",
     "Z-core/00 Маркетплейсы.md",
@@ -175,8 +177,6 @@
     "Z-core/00 GTD.md",
     "Z-core/Отображение скорости на экране принтера.md",
     "daily/Работа.md",
-    "Z-core/00 Машинное обучение.md",
-    "Z-core/TensorFlow для начинающих..md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
