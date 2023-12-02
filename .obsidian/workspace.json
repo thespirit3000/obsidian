@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80b4799a78103c04",
+        "id": "4f3a0ccb22e4a87a",
         "type": "tabs",
         "children": [
           {
-            "id": "69e5499a8be45fd8",
+            "id": "9a625a88bdd5b6e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Calendar.md",
+                "file": "templates/checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Calendar.md",
+                "file": "templates/checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Calendar.md",
+                "file": "templates/checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Calendar.md"
+                "file": "templates/checklist.md"
               }
             }
           }
@@ -146,10 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69e5499a8be45fd8",
+  "active": "9a625a88bdd5b6e1",
   "lastOpenFiles": [
-    "Z-core/00 Blender.md",
+    "daily/Списание BOsh GBH3-28 DRE.md",
+    "templates/checklist.md",
+    "daily/Инструмент.md",
+    "templates/Daily note.md",
+    "templates/New note.md",
     "Z-core/Calendar.md",
+    "Z-core/00 Blender.md",
     "Z-core/00 Youtube.md",
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/00 Рецепты.md",
@@ -172,11 +176,6 @@
     "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
     "Z-core/00 Obsidian.md",
     "Z-core/схема GTD.md",
-    "daily/Списание BOsh GBH3-28 DRE.md",
-    "daily/Инструмент.md",
-    "Z-core/00 GTD.md",
-    "Z-core/Отображение скорости на экране принтера.md",
-    "daily/Работа.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
