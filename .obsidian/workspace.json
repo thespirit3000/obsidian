@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b4687d530b7669",
+        "id": "80b4799a78103c04",
         "type": "tabs",
         "children": [
           {
-            "id": "b64ba571c486a8e8",
+            "id": "69e5499a8be45fd8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00",
+                "query": "tag:#video",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -137,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b64ba571c486a8e8",
+  "active": "69e5499a8be45fd8",
   "lastOpenFiles": [
+    "Z-core/00 Рецепты.md",
+    "Z-core/Untitled.md",
     "Z-core/00 Работа.md",
     "Z-core/Установка Lotus Notes.md",
     "Z-core/00 Lotus.md",
@@ -166,8 +169,6 @@
     "Z-core/00 Порядок.md",
     "Z-core/00 Маркетплейсы.md",
     "templates/Daily note.md",
-    "Z-core/Фильтр в пылесос Karcher w2.md",
-    "Z-core/TensorFlow.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
