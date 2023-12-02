@@ -11,8 +11,12 @@
             "id": "69e5499a8be45fd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Blender tutorials.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z-core/Blender tutorials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z-core/Blender tutorials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z-core/Blender tutorials.md"
+              }
             }
           }
         ],
@@ -140,6 +148,7 @@
   },
   "active": "69e5499a8be45fd8",
   "lastOpenFiles": [
+    "Z-core/Blender tutorials.md",
     "Z-core/00 Рецепты.md",
     "Z-core/Untitled.md",
     "Z-core/00 Работа.md",
@@ -168,7 +177,6 @@
     "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
     "Z-core/00 Порядок.md",
     "Z-core/00 Маркетплейсы.md",
-    "templates/Daily note.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
