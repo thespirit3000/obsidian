@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: 00",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,6 +147,7 @@
   },
   "active": "181da12c72e48668",
   "lastOpenFiles": [
+    "daily/2023-12-02.md",
     "Z-core/Лист покупок.md",
     "templates/Shoplist.md",
     "templates/New note.md",
@@ -175,7 +176,6 @@
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
     "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
-    "Z-core/00 Obsidian.md",
     "files/Pasted image 20231114155856.png",
     "files/Pasted image 20231114122939.png",
     "files",
