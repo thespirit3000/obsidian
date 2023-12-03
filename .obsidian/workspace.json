@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Лист покупок.md",
-                "mode": "source",
+                "file": "daily/2023-12-03.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Лист покупок.md",
+                "file": "daily/2023-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Лист покупок.md",
+                "file": "daily/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Лист покупок.md"
+                "file": "daily/2023-12-03.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "217f9e005551ac3e",
   "lastOpenFiles": [
-    "daily/2023-12-03.md",
     "Z-core/Лист покупок.md",
+    "daily/2023-12-03.md",
     "daily/2023-12-02.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "templates/Shoplist.md",
