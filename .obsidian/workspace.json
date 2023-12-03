@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Лист покупок.md",
-                "mode": "source",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Лист покупок.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Лист покупок.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Лист покупок.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -159,10 +159,10 @@
   },
   "active": "217f9e005551ac3e",
   "lastOpenFiles": [
+    "Z-core/Лист покупок.md",
     "daily/2023-12-03.md",
     "daily/2023-12-02.md",
     "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/Лист покупок.md",
     "templates/desktop.ini",
     "Z-core/схема GTD.md",
     "Z-core/00 Маркетплейсы.md",
