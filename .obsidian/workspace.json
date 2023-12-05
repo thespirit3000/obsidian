@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/О направлении информационного сообщения 6705.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d867becd07bd4592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Инструктаж.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/О направлении информационного сообщения 6705.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/О направлении информационного сообщения 6705.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md"
+                "file": "Z-core/О направлении информационного сообщения 6705.md"
               }
             }
           }
@@ -148,13 +160,14 @@
   },
   "active": "31bbb5dbe10f4fac",
   "lastOpenFiles": [
-    "Z-core/Лист покупок.md",
-    "Z-core/Инструктажи ТБ.md",
-    "Z-core/Calendar.md",
-    "Z-core/Blender tutorials.md",
     "Z-core/О направлении информационного.md",
+    "Z-core/Инструктажи ТБ.md",
     "templates/Инструктаж.md",
     "Z-core/О направлении информационного сообщения 6705.md",
+    "daily/2023-11-20.md",
+    "Z-core/Лист покупок.md",
+    "Z-core/Calendar.md",
+    "Z-core/Blender tutorials.md",
     "templates/New note.md",
     "templates/Daily note.md",
     "Z-core/Бобруйск Общага.md",
@@ -173,7 +186,6 @@
     "README.md",
     "daily/2023-12-02.md",
     "templates/Shoplist.md",
-    "daily/Списание BOsh GBH3-28 DRE.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
