@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/О направлении информационного.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/О направлении информационного сообщения 6705.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/О направлении информационного сообщения 6705.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/О направлении информационного сообщения 6705.md"
+                "file": "Z-core/Инструктажи ТБ.md"
               }
             }
           }
@@ -158,12 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6c422c345af7507",
+  "active": "5623f813103671f7",
   "lastOpenFiles": [
+    "Z-core/О направлении информационного.md",
+    "Z-core/О направлении информационного сообщения 6705.md",
     "templates/Инструктаж.md",
     "templates/Daily note.md",
-    "Z-core/О направлении информационного сообщения 6705.md",
-    "Z-core/О направлении информационного.md",
     "Z-core/Бобруйск Общага.md",
     "Z-core/Инструктажи ТБ.md",
     "Z-core/00 3d.md",
