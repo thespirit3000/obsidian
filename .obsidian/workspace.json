@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/О направлении информационного.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/О направлении информационного.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/О направлении информационного.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/О направлении информационного.md"
+                "file": "Z-core/Инструктажи ТБ.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "31bbb5dbe10f4fac",
   "lastOpenFiles": [
-    "templates/Инструктаж.md",
-    "Z-core/О направлении информационного.md",
+    "Z-core/Лист покупок.md",
     "Z-core/Инструктажи ТБ.md",
+    "Z-core/Calendar.md",
+    "Z-core/Blender tutorials.md",
+    "Z-core/О направлении информационного.md",
+    "templates/Инструктаж.md",
     "Z-core/О направлении информационного сообщения 6705.md",
     "templates/New note.md",
     "templates/Daily note.md",
@@ -167,13 +170,10 @@
     "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
     "Z-core/00 Obsidian.md",
     "Z-core/00 Покупки.md",
-    "Z-core/Лист покупок.md",
     "README.md",
     "daily/2023-12-02.md",
     "templates/Shoplist.md",
     "daily/Списание BOsh GBH3-28 DRE.md",
-    "daily/Инструмент.md",
-    "Z-core/Calendar.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
