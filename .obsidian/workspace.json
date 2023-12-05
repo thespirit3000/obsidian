@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "217f9e005551ac3e",
+            "id": "28e954f166f63085",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Маринованные шампиньоны.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fee254d1702dbca7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Лист покупок.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Маринованные шампиньоны.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Маринованные шампиньоны.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Маринованные шампиньоны.md"
+                "file": "Z-core/Установка Lotus Notes.md"
               }
             }
           }
@@ -149,29 +138,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "217f9e005551ac3e",
+  "active": "28e954f166f63085",
   "lastOpenFiles": [
     "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/Лист покупок.md",
     "daily/2023-12-03.md",
-    "daily/2023-12-02.md",
-    "templates/desktop.ini",
-    "Z-core/схема GTD.md",
-    "Z-core/00 Маркетплейсы.md",
-    "templates/Shoplist.md",
-    "Z-core/00 ЧПУ.md",
     "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
     "Z-core/00 Obsidian.md",
     "Z-core/00 Покупки.md",
+    "Z-core/Лист покупок.md",
     "README.md",
+    "daily/2023-12-02.md",
+    "templates/Shoplist.md",
     "templates/New note.md",
     "templates/Daily note.md",
     "daily/Списание BOsh GBH3-28 DRE.md",
@@ -181,10 +166,14 @@
     "Z-core/00 Youtube.md",
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/00 Рецепты.md",
+    "Z-core/00 Маркетплейсы.md",
     "Z-core/00 3D печать.md",
     "Z-core/00 3d.md",
     "Z-core/00 3D принтер.md",
     "Z-core/Школа Kaino - курс Dungeon.md",
+    "Z-core/Blender tutorials.md",
+    "Z-core/00 Моделирование.md",
+    "Z-core/00 Работа.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
