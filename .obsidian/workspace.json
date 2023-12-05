@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/Инструктажи ТБ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31bbb5dbe10f4fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/О направлении информационного сообщения 6705.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/О направлении информационного сообщения 6705.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/О направлении информационного сообщения 6705.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Инструктаж.md"
+                "file": "Z-core/О направлении информационного сообщения 6705.md"
               }
             }
           }
@@ -146,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe9f81194ab8df3f",
+  "active": "31bbb5dbe10f4fac",
   "lastOpenFiles": [
-    "templates/New note.md",
-    "templates/Инструктаж.md",
-    "Z-core/О направлении информационного.md",
     "Z-core/Инструктажи ТБ.md",
     "Z-core/О направлении информационного сообщения 6705.md",
+    "templates/Инструктаж.md",
+    "templates/New note.md",
+    "Z-core/О направлении информационного.md",
     "templates/Daily note.md",
     "Z-core/Бобруйск Общага.md",
     "Z-core/00 3d.md",
