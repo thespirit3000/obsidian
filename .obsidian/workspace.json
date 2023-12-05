@@ -11,8 +11,12 @@
             "id": "724c732560b5882d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Инструктажи ТБ.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z-core/Инструктажи ТБ.md"
+              }
             }
           }
         ]
@@ -139,12 +147,12 @@
   },
   "active": "724c732560b5882d",
   "lastOpenFiles": [
+    "templates/Инструктаж.md",
     "Z-core/00 3d.md",
     "Z-core/00 3D принтер.md",
     "Z-core/00 3D печать.md",
     "Z-core/Установка Lotus Notes.md",
     "Z-core/00 Инструктаж.md",
-    "templates/Инструктаж.md",
     "Z-core/Настройка LOTUS.md",
     "Z-core/Инструктажи ТБ.md",
     "Z-core/00 Охрана труда.md",
