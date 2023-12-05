@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Инструктаж.md"
+                "file": "Z-core/Установка Lotus Notes.md"
               }
             }
           }
@@ -160,9 +161,10 @@
   },
   "active": "4302aea54be40229",
   "lastOpenFiles": [
+    "Z-core/00 Инструктаж.md",
+    "templates/Инструктаж.md",
     "Z-core/Настройка LOTUS.md",
     "Z-core/Установка Lotus Notes.md",
-    "templates/Инструктаж.md",
     "Z-core/Инструктажи ТБ.md",
     "Z-core/00 Охрана труда.md",
     "Z-core/ЧПУ фрезер своими руками.md",
@@ -185,7 +187,6 @@
     "Z-core/00 Рецепты.md",
     "Z-core/00 Маркетплейсы.md",
     "Z-core/00 3D печать.md",
-    "Z-core/00 3d.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
