@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4302aea54be40229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Инструктаж.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Установка Lotus Notes.md",
+                "file": "templates/Инструктаж.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Установка Lotus Notes.md",
+                "file": "templates/Инструктаж.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Установка Lotus Notes.md"
+                "file": "templates/Инструктаж.md"
               }
             }
           }
@@ -146,12 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cef8640580d1c5a",
+  "active": "4302aea54be40229",
   "lastOpenFiles": [
-    "templates/Untitled.md",
+    "Z-core/Настройка LOTUS.md",
+    "Z-core/Установка Lotus Notes.md",
+    "templates/Инструктаж.md",
     "Z-core/Инструктажи ТБ.md",
     "Z-core/00 Охрана труда.md",
-    "Z-core/Установка Lotus Notes.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "daily/2023-12-03.md",
     "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
@@ -173,7 +186,6 @@
     "Z-core/00 Маркетплейсы.md",
     "Z-core/00 3D печать.md",
     "Z-core/00 3d.md",
-    "Z-core/00 3D принтер.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
