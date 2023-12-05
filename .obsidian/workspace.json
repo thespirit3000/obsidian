@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2432027df1e679f9",
+        "id": "28fe9845d79d3d33",
         "type": "tabs",
         "children": [
           {
-            "id": "724c732560b5882d",
+            "id": "9338e8b8bfab7732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
-                "mode": "preview",
+                "file": "Z-core/Бобруйск Общага.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/Бобруйск Общага.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/Бобруйск Общага.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md"
+                "file": "Z-core/Бобруйск Общага.md"
               }
             }
           }
@@ -145,8 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "724c732560b5882d",
+  "active": "9338e8b8bfab7732",
   "lastOpenFiles": [
+    "Z-core/Бобруйск Общага.md",
+    "Z-core/Инструктажи ТБ.md",
     "templates/Инструктаж.md",
     "Z-core/00 3d.md",
     "Z-core/00 3D принтер.md",
@@ -154,7 +156,6 @@
     "Z-core/Установка Lotus Notes.md",
     "Z-core/00 Инструктаж.md",
     "Z-core/Настройка LOTUS.md",
-    "Z-core/Инструктажи ТБ.md",
     "Z-core/00 Охрана труда.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "daily/2023-12-03.md",
@@ -172,7 +173,6 @@
     "Z-core/Calendar.md",
     "Z-core/00 Blender.md",
     "Z-core/00 Youtube.md",
-    "Z-core/Маринованные шампиньоны.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
