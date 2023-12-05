@@ -9,8 +9,8 @@ Tags: #qwest
 ---
 ### Zero-links
 
-- [00 Машинное обучение]
-- [00 TensorFlow]
+- [[00 Машинное обучение]]
+- [[00 TensorFlow]]
 
 ---
 ### Links

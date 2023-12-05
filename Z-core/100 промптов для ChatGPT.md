@@ -9,7 +9,8 @@ Tags: #qwest
 ---
 ### Zero-links
 
-- [00 ChatGPT]
+- [[00 ChatGPT]]
+- [[00 Машинное обучение]]
 
 ---
 ### Links
