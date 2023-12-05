@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "инструк",
+                "query": "lotu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "Z-core/Установка Lotus Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Untitled.md"
+                "file": "Z-core/Установка Lotus Notes.md"
               }
             }
           }
@@ -147,8 +148,8 @@
   },
   "active": "7cef8640580d1c5a",
   "lastOpenFiles": [
-    "Z-core/Инструктажи ТБ.md",
     "templates/Untitled.md",
+    "Z-core/Инструктажи ТБ.md",
     "Z-core/00 Охрана труда.md",
     "Z-core/Установка Lotus Notes.md",
     "Z-core/ЧПУ фрезер своими руками.md",
