@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "templates/Инструктаж.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "templates/Инструктаж.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "templates/Инструктаж.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md"
+                "file": "templates/Инструктаж.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "fe9f81194ab8df3f",
   "lastOpenFiles": [
-    "Z-core/О направлении информационного сообщения 6705.md",
-    "Z-core/Инструктажи ТБ.md",
-    "Z-core/О направлении информационного.md",
+    "templates/New note.md",
     "templates/Инструктаж.md",
+    "Z-core/О направлении информационного.md",
+    "Z-core/Инструктажи ТБ.md",
+    "Z-core/О направлении информационного сообщения 6705.md",
     "templates/Daily note.md",
     "Z-core/Бобруйск Общага.md",
     "Z-core/00 3d.md",
@@ -170,7 +171,6 @@
     "README.md",
     "daily/2023-12-02.md",
     "templates/Shoplist.md",
-    "templates/New note.md",
     "daily/Списание BOsh GBH3-28 DRE.md",
     "daily/Инструмент.md",
     "Z-core/Calendar.md",
