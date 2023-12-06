@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dc189a1fe0e23dec",
+        "id": "286897d46ed176a0",
         "type": "tabs",
         "children": [
           {
-            "id": "66eeba9fb75cd954",
+            "id": "acd11064f1fcb2ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66eeba9fb75cd954",
+  "active": "acd11064f1fcb2ae",
   "lastOpenFiles": [
-    "templates/Shoplist.md",
+    "Z-core/00 Объекты.md",
     "Z-core/Бобруйск Общага.md",
+    "Z-core/Фильтр в пылесос Karcher w2.md",
+    "Z-core/00 Ремонт.md",
+    "Z-core/00 Инструмент.md",
+    "Z-core/Настройка LOTUS.md",
+    "templates/Shoplist.md",
     "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
     "Z-core/TensorFlow.md",
     "Z-core/00 TensorFlow.md",
@@ -161,11 +174,6 @@
     "Z-core/Blender tutorials.md",
     "templates/New note.md",
     "templates/Daily note.md",
-    "Z-core/00 3d.md",
-    "Z-core/00 3D принтер.md",
-    "Z-core/00 3D печать.md",
-    "Z-core/Установка Lotus Notes.md",
-    "Z-core/00 Инструктаж.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
