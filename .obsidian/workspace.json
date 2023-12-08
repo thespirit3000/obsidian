@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Инструктаж.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Инструктаж.md"
+                "file": "Z-core/Инструктажи ТБ.md"
               }
             }
           }
@@ -147,9 +147,9 @@
   },
   "active": "63eed53488ac7efc",
   "lastOpenFiles": [
+    "templates/Инструктаж.md",
     "Z-core/О направлении информационного.md",
     "Z-core/Инструктажи ТБ.md",
-    "templates/Инструктаж.md",
     "Z-core/00 Инструктаж.md",
     "Z-core/Бобруйск Общага.md",
     "Z-core/00 Работа.md",
