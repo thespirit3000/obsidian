@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/Бобруйск.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/Бобруйск.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/Бобруйск.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md"
+                "file": "Z-core/Бобруйск.md"
               }
             }
           }
@@ -147,8 +147,12 @@
   },
   "active": "63eed53488ac7efc",
   "lastOpenFiles": [
-    "Z-core/О направлении информационного.md",
+    "Z-core/На маркетплейсах с Лео Шевченко.md",
+    "Z-core/Бобруйск.md",
+    "Z-core/Маринованные шампиньоны.md",
     "Z-core/Инструктажи ТБ.md",
+    "Z-core/О направлении информационного.md",
+    "Z-core/О направлении информационного сообщения 6705.md",
     "templates/Инструктаж.md",
     "Z-core/00 Инструктаж.md",
     "Z-core/Бобруйск Общага.md",
@@ -169,10 +173,6 @@
     "daily/Инструмент.md",
     "daily/2023-12-03.md",
     "daily/2023-12-02.md",
-    "daily/2023-11-20.md",
-    "Z-core/О направлении информационного сообщения 6705.md",
-    "Z-core/Лист покупок.md",
-    "Z-core/Calendar.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
