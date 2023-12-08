@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c950ace31d1e2a0",
+        "id": "d238a8097595ca49",
         "type": "tabs",
         "children": [
           {
-            "id": "c0a0cafb98dd4f2b",
+            "id": "63eed53488ac7efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Бобруйск Общага.md",
+                "file": "templates/Инструктаж.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ра",
+                "query": "ин",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Бобруйск Общага.md",
+                "file": "templates/Инструктаж.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Бобруйск Общага.md",
+                "file": "templates/Инструктаж.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Бобруйск Общага.md"
+                "file": "templates/Инструктаж.md"
               }
             }
           }
@@ -146,12 +145,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0a0cafb98dd4f2b",
+  "active": "63eed53488ac7efc",
   "lastOpenFiles": [
+    "Z-core/О направлении информационного.md",
+    "Z-core/Инструктажи ТБ.md",
+    "templates/Инструктаж.md",
+    "Z-core/00 Инструктаж.md",
+    "Z-core/Бобруйск Общага.md",
     "Z-core/00 Работа.md",
     "README.md",
     "Z-core/00 Объекты.md",
-    "Z-core/Бобруйск Общага.md",
     "Z-core/Фильтр в пылесос Karcher w2.md",
     "Z-core/00 Ремонт.md",
     "Z-core/00 Инструмент.md",
@@ -167,13 +170,9 @@
     "daily/2023-12-03.md",
     "daily/2023-12-02.md",
     "daily/2023-11-20.md",
-    "Z-core/Инструктажи ТБ.md",
     "Z-core/О направлении информационного сообщения 6705.md",
-    "Z-core/О направлении информационного.md",
-    "templates/Инструктаж.md",
     "Z-core/Лист покупок.md",
     "Z-core/Calendar.md",
-    "Z-core/Blender tutorials.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
