@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Планы эвакуации.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Планы эвакуации.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Планы эвакуации.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Планы эвакуации.md"
+                "file": "Z-core/Конфигурция оборудования.md"
               }
             }
           }
