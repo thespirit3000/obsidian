@@ -11,8 +11,12 @@
             "id": "737f5d18543d8557",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Бобруйск.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Z-core/Бобруйск.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Z-core/Бобруйск.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Z-core/Бобруйск.md"
+          }
         }
       }
     ],
@@ -124,5 +132,8 @@
     }
   },
   "active": "737f5d18543d8557",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Z-core/00 Болид.md",
+    "Z-core/Бобруйск.md"
+  ]
 }
