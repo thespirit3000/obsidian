@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Бобруйск.md",
+                "file": "Z-core/Планы эвакуации.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aac70db385944696",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Бобруйск.md",
+                "file": "Z-core/Планы эвакуации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Бобруйск.md",
+                "file": "Z-core/Планы эвакуации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Бобруйск.md"
+                "file": "Z-core/Планы эвакуации.md"
               }
             }
           }
@@ -146,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63eed53488ac7efc",
+  "active": "5ca650f393a866e5",
   "lastOpenFiles": [
-    "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск.md",
+    "Z-core/Конфигурция оборудования.md",
     "Z-core/Планы эвакуации.md",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
