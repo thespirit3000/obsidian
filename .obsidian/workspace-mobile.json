@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b0fac0a2a54daac",
+        "id": "8b569e1da657c07f",
         "type": "tabs",
         "children": [
           {
-            "id": "737f5d18543d8557",
+            "id": "9be930aefa20ebc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Бобруйск.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Z-core/Бобруйск.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Z-core/Бобруйск.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Z-core/Бобруйск.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,9 +123,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "737f5d18543d8557",
+  "active": "9be930aefa20ebc9",
   "lastOpenFiles": [
-    "Z-core/00 Болид.md",
-    "Z-core/Бобруйск.md"
+    "files/Pasted image 20231209100603.png",
+    "files/Pasted image 20231209100513.png",
+    "Z-core/Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md",
+    "Z-core/Планы эвакуации.md",
+    "files/Pasted image 20231209100452.png",
+    "files/Pasted image 20231209100437.png",
+    "Z-core/Бобруйск.md",
+    "Z-core/Бобруйск Общага.md",
+    "Z-core/00 Болид.md"
   ]
 }
