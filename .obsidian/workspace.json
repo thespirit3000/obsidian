@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "Z-core/Конфигурция оборудования.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,12 +147,13 @@
   },
   "active": "dc6417a6e2b3a111",
   "lastOpenFiles": [
-    "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск.md",
+    "Z-core/00 Наладка.md",
+    "Z-core/Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
+    "Z-core/Конфигурция оборудования.md",
     "daily/2023-12-03.md",
     "daily/2023-12-02.md",
-    "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md",
     "Z-core/~syncthing~Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md.tmp",
     "Z-core/Планы эвакуации.md",
     "files/Pasted image 20231209100603.png",
@@ -161,7 +161,6 @@
     "files/Pasted image 20231209100513.png",
     "files/Pasted image 20231209100452.png",
     "files/Pasted image 20231209100437.png",
-    "Z-core/00 Наладка.md",
     "Z-core/На маркетплейсах с Лео Шевченко.md",
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/Инструктажи ТБ.md",
