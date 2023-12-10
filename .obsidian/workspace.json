@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aac70db385944696",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -149,11 +148,11 @@
   },
   "active": "dc6417a6e2b3a111",
   "lastOpenFiles": [
+    "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск.md",
     "daily/2023-12-03.md",
     "daily/2023-12-02.md",
     "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md",
     "Z-core/~syncthing~Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md.tmp",
     "Z-core/Планы эвакуации.md",
