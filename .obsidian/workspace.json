@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bec522449bdf2e91",
+        "id": "7888444a4e5aaec2",
         "type": "tabs",
         "children": [
           {
-            "id": "53e3323487351588",
+            "id": "aa299293f7193918",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z-core/Инструктажи ТБ.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,10 +137,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53e3323487351588",
+  "active": "5ca650f393a866e5",
   "lastOpenFiles": [
-    "Z-core/Погодные условия.md",
     "Z-core/Инструктажи ТБ.md",
+    "Z-core/Погодные условия.md",
     "Z-core/00 Инструктаж.md",
     "Z-core/О направлении информационного.md",
     "Z-core/00 Охрана труда.md",
