@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/00 Инструктаж.md",
+                "file": "Z-core/Погодные условия.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f4eb160c0be47503",
+            "id": "46e0f48694d1de5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,18 @@
             }
           },
           {
-            "id": "46e0f48694d1de5c",
+            "id": "53e3323487351588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Погодные условия.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,11 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46e0f48694d1de5c",
+  "active": "dc6417a6e2b3a111",
   "lastOpenFiles": [
-    "Z-core/Погодные условия.md",
-    "Z-core/О направлении информационного.md",
     "Z-core/00 Инструктаж.md",
+    "Z-core/О направлении информационного.md",
+    "Z-core/Инструктажи ТБ.md",
+    "Z-core/00 Охрана труда.md",
+    "Z-core/О направлении информационного сообщения 6705.md",
+    "templates/Инструктаж.md",
+    "Z-core/Погодные условия.md",
     "Z-core/00 Инструмент.md",
     "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
@@ -195,16 +198,12 @@
     "files/Pasted image 20231209100437.png",
     "Z-core/На маркетплейсах с Лео Шевченко.md",
     "Z-core/Маринованные шампиньоны.md",
-    "Z-core/Инструктажи ТБ.md",
-    "Z-core/О направлении информационного сообщения 6705.md",
-    "templates/Инструктаж.md",
     "Z-core/00 Работа.md",
     "README.md",
     "Z-core/00 Объекты.md",
     "Z-core/Фильтр в пылесос Karcher w2.md",
     "Z-core/00 Ремонт.md",
     "Z-core/Настройка LOTUS.md",
-    "templates/Shoplist.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
