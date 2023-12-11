@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/00 Инструктаж.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4eb160c0be47503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/О направлении информационного.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46e0f48694d1de5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Погодные условия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ин",
+                "query": "инстр",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/Погодные условия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/Погодные условия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md"
+                "file": "Z-core/Погодные условия.md"
               }
             }
           }
@@ -133,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc6417a6e2b3a111",
+  "active": "46e0f48694d1de5c",
   "lastOpenFiles": [
+    "Z-core/Погодные условия.md",
+    "Z-core/О направлении информационного.md",
+    "Z-core/00 Инструктаж.md",
+    "Z-core/00 Инструмент.md",
+    "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/Выполненные объемы участками.md",
     "Z-core/Планы эвакуации.md",
-    "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск.md",
     "Z-core/00 Наладка.md",
     "Z-core/Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md",
@@ -167,19 +196,15 @@
     "Z-core/На маркетплейсах с Лео Шевченко.md",
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/Инструктажи ТБ.md",
-    "Z-core/О направлении информационного.md",
     "Z-core/О направлении информационного сообщения 6705.md",
     "templates/Инструктаж.md",
-    "Z-core/00 Инструктаж.md",
     "Z-core/00 Работа.md",
     "README.md",
     "Z-core/00 Объекты.md",
     "Z-core/Фильтр в пылесос Karcher w2.md",
     "Z-core/00 Ремонт.md",
-    "Z-core/00 Инструмент.md",
     "Z-core/Настройка LOTUS.md",
     "templates/Shoplist.md",
-    "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
