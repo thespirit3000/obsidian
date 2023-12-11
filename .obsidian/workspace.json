@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Погодные условия.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Погодные условия.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Погодные условия.md"
+                "file": "Z-core/Инструктажи ТБ.md"
               }
             }
           }
@@ -170,15 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc6417a6e2b3a111",
+  "active": "53e3323487351588",
   "lastOpenFiles": [
+    "Z-core/Погодные условия.md",
+    "Z-core/Инструктажи ТБ.md",
     "Z-core/00 Инструктаж.md",
     "Z-core/О направлении информационного.md",
-    "Z-core/Инструктажи ТБ.md",
     "Z-core/00 Охрана труда.md",
     "Z-core/О направлении информационного сообщения 6705.md",
     "templates/Инструктаж.md",
-    "Z-core/Погодные условия.md",
     "Z-core/00 Инструмент.md",
     "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
