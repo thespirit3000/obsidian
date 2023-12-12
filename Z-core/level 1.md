@@ -40,11 +40,14 @@ Tags: #
 34. Kill Merveil and enter the Southern Forest.
 35. Run through the zone and enter the Forest Encampment.
 
+Go to [[level 2]]
+
 
 ---
 ### Zero-links
 
-- []
+- [[00 Game]]
+- [[00 Path of exile]]
 
 ---
 ### Links

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/level 1.md",
+                "file": "Z-core/level 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/level 1.md",
+                "file": "Z-core/level 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/level 1.md",
+                "file": "Z-core/level 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/level 1.md"
+                "file": "Z-core/level 3.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "366276f36b20f7da",
   "lastOpenFiles": [
-    "Z-core/Leveling POE.md",
+    "Z-core/level 2.md",
+    "Z-core/level 3.md",
     "Z-core/level 1.md",
+    "Z-core/Leveling POE.md",
     "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/00 Болид.md",
@@ -177,8 +179,6 @@
     "Z-core/На маркетплейсах с Лео Шевченко.md",
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/00 Работа.md",
-    "README.md",
-    "Z-core/00 Объекты.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
