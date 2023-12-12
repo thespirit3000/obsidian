@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7888444a4e5aaec2",
+        "id": "27ec0ad4c67fef88",
         "type": "tabs",
         "children": [
           {
-            "id": "aa299293f7193918",
+            "id": "366276f36b20f7da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/level 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md",
+                "file": "Z-core/level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Конфигурция оборудования.md"
+                "file": "Z-core/level 1.md"
               }
             }
           }
@@ -145,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa299293f7193918",
+  "active": "366276f36b20f7da",
   "lastOpenFiles": [
+    "Z-core/Leveling POE.md",
+    "Z-core/level 1.md",
+    "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/00 Болид.md",
     "Z-core/Инструктажи ТБ.md",
@@ -157,7 +160,6 @@
     "Z-core/О направлении информационного сообщения 6705.md",
     "templates/Инструктаж.md",
     "Z-core/00 Инструмент.md",
-    "Z-core/Конфигурция оборудования.md",
     "Z-core/Выполненные объемы участками.md",
     "Z-core/Планы эвакуации.md",
     "Z-core/Бобруйск.md",
@@ -177,8 +179,6 @@
     "Z-core/00 Работа.md",
     "README.md",
     "Z-core/00 Объекты.md",
-    "Z-core/Фильтр в пылесос Karcher w2.md",
-    "Z-core/00 Ремонт.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
