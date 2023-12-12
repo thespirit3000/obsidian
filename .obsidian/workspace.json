@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/level 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/level 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/level 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/level 3.md"
+                "file": "Z-core/level 7.md"
               }
             }
           }
@@ -147,8 +147,12 @@
   },
   "active": "366276f36b20f7da",
   "lastOpenFiles": [
-    "Z-core/level 2.md",
+    "Z-core/level 6.md",
+    "Z-core/level 7.md",
+    "Z-core/level 5.md",
+    "Z-core/level 4.md",
     "Z-core/level 3.md",
+    "Z-core/level 2.md",
     "Z-core/level 1.md",
     "Z-core/Leveling POE.md",
     "Z-core/Конфигурция оборудования.md",
@@ -169,16 +173,12 @@
     "Z-core/Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "daily/2023-12-03.md",
-    "daily/2023-12-02.md",
     "Z-core/~syncthing~Бобруйск.sync-conflict-20231210-115157-AYMS5L4.md.tmp",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
     "files/Pasted image 20231209100452.png",
     "files/Pasted image 20231209100437.png",
-    "Z-core/На маркетплейсах с Лео Шевченко.md",
-    "Z-core/Маринованные шампиньоны.md",
-    "Z-core/00 Работа.md",
     "Untitled",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
