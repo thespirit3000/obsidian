@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Leveling POE.md",
+                "file": "Z-core/level 1.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fee254d1702dbca7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Лист покупок.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Leveling POE.md",
+                "file": "Z-core/level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Leveling POE.md",
+                "file": "Z-core/level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Leveling POE.md"
+                "file": "Z-core/level 1.md"
               }
             }
           }
@@ -159,6 +147,11 @@
   },
   "active": "217f9e005551ac3e",
   "lastOpenFiles": [
+    "Z-core/Лист покупок.md",
+    "Z-core/00 Покупки.md",
+    "Z-core/level 1.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
+    "Z-core/Leveling POE.md",
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/level 8.md",
     "Z-core/Планы эвакуации.md",
@@ -169,7 +162,6 @@
     "Z-core/О направлении информационного.md",
     "Z-core/level 6.md",
     "Z-core/level 10.md",
-    "Z-core/Leveling POE.md",
     "Z-core/О направлении информационного сообщения 6705.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/Настройка LOTUS.md",
@@ -179,7 +171,6 @@
     "Z-core/level 5.md",
     "Z-core/Погодные условия.md",
     "Z-core/Инструктажи ТБ.md",
-    "Z-core/level 1.md",
     "files/Pasted image 20231209100437.png",
     "templates/Инструктаж.md",
     "files/Pasted image 20231209100603.png",
@@ -187,9 +178,6 @@
     "files/Pasted image 20231209100513.png",
     "files/Pasted image 20231209100452.png",
     "Z-core/00 Ремонт.md",
-    "Z-core/00 Охрана труда.md",
-    "Z-core/00 Объекты.md",
-    "Z-core/00 Наладка.md",
     "templates/desktop.ini",
     "Untitled",
     "files/Pasted image 20231126215142.png",
