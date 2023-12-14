@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/level 1.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/level 1.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/level 1.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/level 1.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -147,10 +147,11 @@
   },
   "active": "217f9e005551ac3e",
   "lastOpenFiles": [
+    "daily/2023-12-03.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
+    "Z-core/level 1.md",
     "Z-core/Лист покупок.md",
     "Z-core/00 Покупки.md",
-    "Z-core/level 1.md",
-    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/Leveling POE.md",
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/level 8.md",
@@ -177,7 +178,6 @@
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
     "files/Pasted image 20231209100452.png",
-    "Z-core/00 Ремонт.md",
     "templates/desktop.ini",
     "Untitled",
     "files/Pasted image 20231126215142.png",
