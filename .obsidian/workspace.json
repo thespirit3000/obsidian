@@ -11,8 +11,12 @@
             "id": "52cbc202a3c9c339",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Конфигурция оборудования.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z-core/Конфигурция оборудования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z-core/Конфигурция оборудования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z-core/Конфигурция оборудования.md"
+              }
             }
           }
         ]
@@ -139,6 +147,7 @@
   },
   "active": "52cbc202a3c9c339",
   "lastOpenFiles": [
+    "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/level 3.md",
     "Z-core/level 2.md",
     "Z-core/level 1.md",
@@ -154,7 +163,6 @@
     "Z-core/00 Path of exile.md",
     "Z-core/00 Game.md",
     "Z-core/Конфигурция оборудования.md",
-    "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/00 Болид.md",
     "Z-core/Инструктажи ТБ.md",
     "Z-core/Погодные условия.md",
