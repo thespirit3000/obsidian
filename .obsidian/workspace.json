@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/level 3.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "52cbc202a3c9c339",
   "lastOpenFiles": [
+    "Z-core/00 ЧПУ.md",
+    "Z-core/level 3.md",
     "files/ugolok.stl",
     "files/t8nut50.stl",
     "files/t8_nut.stl",
@@ -157,10 +159,8 @@
     "files/portal 2 motor v2.stl",
     "files/portal 2 bearing v2.stl",
     "files/motor cover.stl",
-    "files/label.stl",
     "Z-core/Конфигурция оборудования.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
-    "Z-core/level 3.md",
     "Z-core/level 2.md",
     "Z-core/level 1.md",
     "Z-core/Leveling POE.md",
