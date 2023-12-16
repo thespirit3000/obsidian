@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/level 3.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/level 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/level 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "Z-core/level 3.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "52cbc202a3c9c339",
   "lastOpenFiles": [
+    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/00 ЧПУ.md",
     "Z-core/level 3.md",
     "files/ugolok.stl",
@@ -182,7 +183,6 @@
     "Z-core/00 Охрана труда.md",
     "Z-core/О направлении информационного сообщения 6705.md",
     "templates/Инструктаж.md",
-    "Z-core/00 Инструмент.md",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
