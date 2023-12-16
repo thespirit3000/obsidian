@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bafb89bf482d1641",
+        "id": "863a2dc5c4db225f",
         "type": "tabs",
         "children": [
           {
-            "id": "217f9e005551ac3e",
+            "id": "52cbc202a3c9c339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/level 3.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "инстр",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/level 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/level 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "Z-core/level 3.md"
               }
             }
           }
@@ -137,57 +137,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "217f9e005551ac3e",
+  "active": "52cbc202a3c9c339",
   "lastOpenFiles": [
     "files/ugolok.stl",
     "files/t8nut50.stl",
     "files/t8_nut.stl",
-    "files/Stoyka y motorR v2.stl",
-    "files/Stoyka y motorL v2.stl",
-    "files/Stoyka y bearing RR v2.stl",
-    "files/Stoyka y bearing LL v2.stl",
     "files/stol mount.stl",
     "files/shpindel lock.stl",
     "files/shpindel kar v2.stl",
     "files/ruchka Z.stl",
-    "daily/2023-12-03.md",
-    "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/level 1.md",
-    "Z-core/Лист покупок.md",
-    "Z-core/00 Покупки.md",
-    "Z-core/Leveling POE.md",
-    "Z-core/Маринованные шампиньоны.md",
-    "Z-core/level 8.md",
-    "Z-core/Планы эвакуации.md",
-    "Z-core/level 4.md",
-    "Z-core/level 3.md",
-    "Z-core/Выполненные объемы участками.md",
+    "files/portal 2 motor v2.stl",
+    "files/portal 2 bearing v2.stl",
+    "files/motor cover.stl",
+    "files/label.stl",
     "Z-core/Конфигурция оборудования.md",
-    "Z-core/О направлении информационного.md",
-    "Z-core/level 6.md",
-    "Z-core/level 10.md",
-    "Z-core/О направлении информационного сообщения 6705.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
-    "Z-core/Настройка LOTUS.md",
+    "Z-core/level 3.md",
     "Z-core/level 2.md",
+    "Z-core/level 1.md",
+    "Z-core/Leveling POE.md",
+    "conflict-files-obsidian-git.md",
+    "Z-core/level 10.md",
     "Z-core/level 9.md",
+    "Z-core/level 8.md",
     "Z-core/level 7.md",
+    "Z-core/level 6.md",
     "Z-core/level 5.md",
-    "Z-core/Погодные условия.md",
+    "Z-core/level 4.md",
+    "Z-core/00 Path of exile.md",
+    "Z-core/00 Game.md",
+    "Z-core/00 Болид.md",
     "Z-core/Инструктажи ТБ.md",
-    "files/Pasted image 20231209100437.png",
+    "Z-core/Погодные условия.md",
+    "Z-core/00 Инструктаж.md",
+    "Z-core/О направлении информационного.md",
+    "Z-core/00 Охрана труда.md",
+    "Z-core/О направлении информационного сообщения 6705.md",
+    "templates/Инструктаж.md",
+    "Z-core/00 Инструмент.md",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
     "files/Pasted image 20231209100452.png",
+    "files/Pasted image 20231209100437.png",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
     "files/Pasted image 20231114155856.png",
