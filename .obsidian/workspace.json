@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/level 4.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/level 4.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/level 4.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/level 4.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "4d0723e602080495",
   "lastOpenFiles": [
+    "Z-core/00 ЧПУ.md",
+    "Z-core/level 4.md",
     "Z-core/00 Path of exile.md",
     "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/00 ЧПУ.md",
     "Z-core/Фильтр в пылесос Karcher w2.md",
     "Z-core/00 Ремонт.md",
-    "Z-core/level 4.md",
     "Z-core/level 3.md",
     "files/ugolok.stl",
     "files/t8nut50.stl",
