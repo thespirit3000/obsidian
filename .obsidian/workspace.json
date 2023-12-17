@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "863a2dc5c4db225f",
+        "id": "51d7f23c8a9a4e84",
         "type": "tabs",
         "children": [
           {
-            "id": "52cbc202a3c9c339",
+            "id": "4d0723e602080495",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "инстр",
+                "query": "file: 00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52cbc202a3c9c339",
+  "active": "4d0723e602080495",
   "lastOpenFiles": [
+    "Z-core/Фильтр в пылесос Karcher w2.md",
+    "Z-core/00 Ремонт.md",
     "Z-core/level 4.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/level 3.md",
@@ -173,8 +176,6 @@
     "Z-core/00 Инструктаж.md",
     "Z-core/О направлении информационного.md",
     "Z-core/00 Охрана труда.md",
-    "Z-core/О направлении информационного сообщения 6705.md",
-    "templates/Инструктаж.md",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
