@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily note.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily note.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily note.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily note.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -162,9 +163,10 @@
   },
   "active": "599efbf247b7c388",
   "lastOpenFiles": [
+    "Z-core/00 ЧПУ.md",
+    "templates/Daily note.md",
     "Z-core/Трекинг программы СОТКА.md",
     "daily/2023-12-17.md",
-    "templates/Daily note.md",
     "Z-core/00 Трекинги.md",
     "Z-core/Untitled.md",
     "Z-core/Схема тренировок базового.md",
@@ -174,7 +176,6 @@
     "Z-core/00 СОТКА.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "files/Pasted image 20231217181138.png",
-    "Z-core/00 ЧПУ.md",
     "Z-core/level 4.md",
     "Z-core/00 Path of exile.md",
     "Z-core/Фильтр в пылесос Karcher w2.md",
