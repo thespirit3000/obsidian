@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
+                "file": "templates/Daily note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
+                "file": "templates/Daily note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
+                "file": "templates/Daily note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md"
+                "file": "templates/Daily note.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "599efbf247b7c388",
   "lastOpenFiles": [
-    "daily/2023-12-17.md",
     "Z-core/Трекинг программы СОТКА.md",
+    "daily/2023-12-17.md",
     "templates/Daily note.md",
     "Z-core/00 Трекинги.md",
     "Z-core/Untitled.md",
