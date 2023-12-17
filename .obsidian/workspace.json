@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
+                "file": "daily/2023-12-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
+                "file": "daily/2023-12-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
+                "file": "daily/2023-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md"
+                "file": "daily/2023-12-17.md"
               }
             }
           }
@@ -158,6 +157,7 @@
   "active": "3b4fe6cfcf873832",
   "lastOpenFiles": [
     "Z-core/Трекинг программы СОТКА.md",
+    "daily/2023-12-17.md",
     "Z-core/Untitled.md",
     "Z-core/Схема тренировок базового.md",
     "Z-core/3 Правила.md",
@@ -193,7 +193,6 @@
     "Z-core/level 8.md",
     "Z-core/level 7.md",
     "Z-core/level 6.md",
-    "Z-core/level 5.md",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
