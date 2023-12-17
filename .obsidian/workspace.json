@@ -11,12 +11,8 @@
             "id": "52cbc202a3c9c339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/level 4.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/level 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/level 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z-core/level 4.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,8 @@
   },
   "active": "52cbc202a3c9c339",
   "lastOpenFiles": [
-    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/level 4.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/level 3.md",
     "Z-core/00 ЧПУ.md",
     "files/ugolok.stl",
