@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/level 4.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/level 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/level 3.md",
+                "file": "Z-core/level 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/level 3.md"
+                "file": "Z-core/level 4.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   "active": "52cbc202a3c9c339",
   "lastOpenFiles": [
     "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/00 ЧПУ.md",
+    "Z-core/level 4.md",
     "Z-core/level 3.md",
+    "Z-core/00 ЧПУ.md",
     "files/ugolok.stl",
     "files/t8nut50.stl",
     "files/t8_nut.stl",
@@ -172,7 +173,6 @@
     "Z-core/level 7.md",
     "Z-core/level 6.md",
     "Z-core/level 5.md",
-    "Z-core/level 4.md",
     "Z-core/00 Path of exile.md",
     "Z-core/00 Game.md",
     "Z-core/00 Болид.md",
