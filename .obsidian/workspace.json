@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc106533b70fe45",
+        "id": "ad27a07d708984b8",
         "type": "tabs",
         "children": [
           {
-            "id": "599efbf247b7c388",
+            "id": "53c885ea940e993b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cc6b46aed5d1c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Корпоратив алкоголь.md",
+                "file": "Z-core/Планы эвакуации.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Корпоратив алкоголь.md",
+                "file": "Z-core/Планы эвакуации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Корпоратив алкоголь.md",
+                "file": "Z-core/Планы эвакуации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Корпоратив алкоголь.md"
+                "file": "Z-core/Планы эвакуации.md"
               }
             }
           }
@@ -173,11 +161,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5cc6b46aed5d1c39",
+  "active": "53c885ea940e993b",
   "lastOpenFiles": [
-    "Z-core/00 Корпоратив 2023.md",
-    "Z-core/Корпоратив алкоголь.md",
+    "Z-core/Бобруйск Общежитие на Крылова.md",
+    "Z-core/Конфигурция оборудования.md",
+    "Z-core/00 Объекты.md",
+    "Z-core/00 Наладка.md",
     "Z-core/ЧПУ фрезер своими руками.md",
+    "Z-core/Корпоратив алкоголь.md",
+    "Z-core/00 Корпоратив 2023.md",
     "Z-core/00 ЧПУ.md",
     "templates/Daily note.md",
     "Z-core/Трекинг программы СОТКА.md",
@@ -204,14 +196,10 @@
     "files/portal 2 motor v2.stl",
     "files/portal 2 bearing v2.stl",
     "files/motor cover.stl",
-    "Z-core/Конфигурция оборудования.md",
-    "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/level 2.md",
     "Z-core/level 1.md",
     "Z-core/Leveling POE.md",
     "conflict-files-obsidian-git.md",
-    "Z-core/level 10.md",
-    "Z-core/level 9.md",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
