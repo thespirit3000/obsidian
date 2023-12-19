@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Планы эвакуации.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Планы эвакуации.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Планы эвакуации.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Планы эвакуации.md"
+                "file": "Z-core/Конфигурция оборудования.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   "active": "53c885ea940e993b",
   "lastOpenFiles": [
     "Z-core/Бобруйск Общежитие на Крылова.md",
+    "Z-core/Планы эвакуации.md",
     "Z-core/Конфигурция оборудования.md",
     "Z-core/00 Объекты.md",
     "Z-core/00 Наладка.md",
@@ -199,7 +200,6 @@
     "Z-core/level 2.md",
     "Z-core/level 1.md",
     "Z-core/Leveling POE.md",
-    "conflict-files-obsidian-git.md",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
