@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-12-03.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-12-03.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-12-03.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-12-03.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "217f9e005551ac3e",
   "lastOpenFiles": [
+    "daily/2023-12-03.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "files/ugolok.stl",
     "files/t8nut50.stl",
@@ -158,7 +159,6 @@
     "files/stol mount.stl",
     "files/shpindel lock.stl",
     "files/shpindel kar v2.stl",
-    "daily/2023-12-03.md",
     "Z-core/level 1.md",
     "Z-core/Лист покупок.md",
     "Z-core/00 Покупки.md",
