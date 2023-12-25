@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08f7ff9c92f6037f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,10 +158,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "217f9e005551ac3e",
+  "active": "08f7ff9c92f6037f",
   "lastOpenFiles": [
-    "daily/2023-12-03.md",
     "Z-core/ЧПУ фрезер своими руками.md",
+    "conflict-files-obsidian-git.md",
+    "files/Pasted image 20231217181138.png",
+    "daily/2023-12-17.md",
+    "Z-core/Трекинг программы СОТКА.md",
+    "Z-core/Схема тренировок базового.md",
+    "Z-core/Корпоратив алкоголь.md",
+    "Z-core/3 Правила.md",
+    "Z-core/00 Фитнес.md",
+    "Z-core/00 Трекинги.md",
+    "Z-core/00 СОТКА.md",
+    "Z-core/00 Корпоратив 2023.md",
+    "Z-core/00 Воркаут.md",
+    "daily/2023-12-03.md",
     "files/ugolok.stl",
     "files/t8nut50.stl",
     "files/t8_nut.stl",
@@ -172,16 +197,6 @@
     "Z-core/Конфигурция оборудования.md",
     "Z-core/О направлении информационного.md",
     "Z-core/level 6.md",
-    "Z-core/level 10.md",
-    "Z-core/О направлении информационного сообщения 6705.md",
-    "Z-core/Бобруйск Общежитие на Крылова.md",
-    "Z-core/Настройка LOTUS.md",
-    "Z-core/level 2.md",
-    "Z-core/level 9.md",
-    "Z-core/level 7.md",
-    "Z-core/level 5.md",
-    "Z-core/Погодные условия.md",
-    "Z-core/Инструктажи ТБ.md",
     "files/Pasted image 20231209100437.png",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",

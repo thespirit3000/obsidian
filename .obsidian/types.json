@@ -5,6 +5,8 @@
     "tags": "tags",
     "Date": "date",
     "Date of letter": "date",
-    "Complited": "checkbox"
+    "Complited": "checkbox",
+    "sotka_string": "multitext",
+    "sotka": "multitext"
   }
 }
