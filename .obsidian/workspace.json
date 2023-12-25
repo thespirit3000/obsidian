@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bafb89bf482d1641",
+        "id": "228a5e4cbf096ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "936f2f4842d5f687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cb8dc84bdcbc42f",
+            "id": "3280bcc051ac0ce1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,10 +126,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Трекинг программы СОТКА.md"
+                "file": "Z-core/Важные команды emacs.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e24d981b09062941",
+        "type": "tabs",
+        "children": [
           {
             "id": "c133a0ed35b08ed1",
             "type": "leaf",
@@ -166,9 +162,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "936f2f4842d5f687",
+  "active": "3280bcc051ac0ce1",
   "lastOpenFiles": [
     "Z-core/Calendar.md",
+    "Z-core/Важные команды emacs.md",
+    "templates/Инструктаж.md",
+    "Z-core/Трекинг программы СОТКА.md",
+    "Z-core/00 Трекинги.md",
+    "Z-core/00 СОТКА.md",
+    "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
     "daily/2023-12-03.md",
     "daily/2023-12-17.md",
     "daily/2023-12-25.md",
@@ -176,16 +178,12 @@
     "daily/2023-12-02.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/Emacs shortcuts.md",
-    "Z-core/Важные команды emacs.md",
     "conflict-files-obsidian-git.md",
     "files/Pasted image 20231217181138.png",
-    "Z-core/Трекинг программы СОТКА.md",
     "Z-core/Схема тренировок базового.md",
     "Z-core/Корпоратив алкоголь.md",
     "Z-core/3 Правила.md",
     "Z-core/00 Фитнес.md",
-    "Z-core/00 Трекинги.md",
-    "Z-core/00 СОТКА.md",
     "Z-core/00 Корпоратив 2023.md",
     "Z-core/00 Воркаут.md",
     "files/ugolok.stl",
@@ -203,8 +201,6 @@
     "Z-core/00 Покупки.md",
     "Z-core/Leveling POE.md",
     "Z-core/Маринованные шампиньоны.md",
-    "Z-core/level 8.md",
-    "Z-core/Планы эвакуации.md",
     "files/Pasted image 20231209100437.png",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
