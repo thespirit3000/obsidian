@@ -17,21 +17,20 @@ Tags: #
 ||   replace-string  |   Поиск и замена строки
 ||   replace-regexp  |    Поиск и замена с использованием регулярного выражения
 |C-h t    |   help-with-tutorial | Использовать интерактивный учебник
-|C-h f       describe-function  Показать справку по функции
-|C-h v       describe-variable  Показать справку по переменной
-|C-h x       describe-key       Показать данные, о том, что делает последовательность клавиш
+|C-h f    |    describe-function |  Показать справку по функции
+|C-h v    |  describe-variable |  Показать справку по переменной
+|C-h x    |   describe-key     |  Показать данные, о том, что делает последовательность клавиш
+|C-h a    |   apropos          |  Поиск в справке по строке/регулярному выражению
+|C-h F    |   view-emacs-FAQ   |  Показать Emacs FAQ
+|C-h i    |   info             |  Документация по Emacs (Info)
+|C-x r m  |   bookmark-set     |  Установить закладку. Полезно при поисках
+|C-x r b  |   bookmark-jump    |  Перейти к закладке
 
-C-h a       apropos            Поиск в справке по строке/регулярному выражению
-C-h F       view-emacs-FAQ     Показать Emacs FAQ
-C-h i       info               Документация по Emacs (Info)
-C-x r m     bookmark-set       Установить закладку. Полезно при поисках
-C-x r b     bookmark-jump      Перейти к закладке
--------------------------------------------------------------------
 
 ---
 ### Zero-links
 
--
+- [[00 Emacs]]
 
 ---
 ### Links

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "217f9e005551ac3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "936f2f4842d5f687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Emacs shortcuts.md",
+                "file": "Z-core/Трекинг программы СОТКА.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Важные команды emacs.md",
+                "file": "Z-core/Трекинг программы СОТКА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Важные команды emacs.md",
+                "file": "Z-core/Трекинг программы СОТКА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Важные команды emacs.md"
+                "file": "Z-core/Трекинг программы СОТКА.md"
               }
             }
           },
@@ -179,14 +166,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3cb8dc84bdcbc42f",
+  "active": "936f2f4842d5f687",
   "lastOpenFiles": [
+    "Z-core/Calendar.md",
+    "daily/2023-12-03.md",
+    "daily/2023-12-17.md",
+    "daily/2023-12-25.md",
+    "daily/2023-11-20.md",
+    "daily/2023-12-02.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/Emacs shortcuts.md",
     "Z-core/Важные команды emacs.md",
-    "Z-core/ЧПУ фрезер своими руками.md",
     "conflict-files-obsidian-git.md",
     "files/Pasted image 20231217181138.png",
-    "daily/2023-12-17.md",
     "Z-core/Трекинг программы СОТКА.md",
     "Z-core/Схема тренировок базового.md",
     "Z-core/Корпоратив алкоголь.md",
@@ -196,7 +188,6 @@
     "Z-core/00 СОТКА.md",
     "Z-core/00 Корпоратив 2023.md",
     "Z-core/00 Воркаут.md",
-    "daily/2023-12-03.md",
     "files/ugolok.stl",
     "files/t8nut50.stl",
     "files/t8_nut.stl",
@@ -214,10 +205,6 @@
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/level 8.md",
     "Z-core/Планы эвакуации.md",
-    "Z-core/level 4.md",
-    "Z-core/level 3.md",
-    "Z-core/Выполненные объемы участками.md",
-    "Z-core/Конфигурция оборудования.md",
     "files/Pasted image 20231209100437.png",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
