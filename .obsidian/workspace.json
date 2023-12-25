@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Emacs shortcuts.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Emacs shortcuts.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Emacs shortcuts.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Emacs shortcuts.md"
+                "file": "Z-core/Важные команды emacs.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   "active": "5fe81bc70584c8cf",
   "lastOpenFiles": [
     "Z-core/00 Emacs.md",
+    "Z-core/Emacs shortcuts.md",
     "Z-core/Важные команды emacs.md",
     "Z-core/Emacs.md",
     "Z-core/Calendar.md",
@@ -178,7 +179,6 @@
     "daily/2023-11-20.md",
     "daily/2023-12-02.md",
     "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/Emacs shortcuts.md",
     "conflict-files-obsidian-git.md",
     "files/Pasted image 20231217181138.png",
     "Z-core/Схема тренировок базового.md",
