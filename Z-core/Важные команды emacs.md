@@ -26,7 +26,16 @@ Tags: #
 |C-x r m  |   bookmark-set     |  Установить закладку. Полезно при поисках
 |C-x r b  |   bookmark-jump    |  Перейти к закладке
 
+There are many C-x commands.  Here is a list of the ones you have learned:
 
+	C-x C-f		Find file
+	C-x C-s		Save buffer to file
+	C-x s		Save some buffers to their files
+	C-x C-b		List buffers
+	C-x b		Switch buffer
+	C-x C-c		Quit Emacs
+	C-x 1		Delete all but one window
+	C-x u		Und
 ---
 ### Zero-links
 
