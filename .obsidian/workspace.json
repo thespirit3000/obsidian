@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cb8dc84bdcbc42f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Важные команды emacs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Emacs shortcuts.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Emacs shortcuts.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Emacs shortcuts.md"
+                "file": "Z-core/Важные команды emacs.md"
               }
             }
           },
@@ -167,10 +179,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "936f2f4842d5f687",
+  "active": "3cb8dc84bdcbc42f",
   "lastOpenFiles": [
-    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/Emacs shortcuts.md",
+    "Z-core/Важные команды emacs.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
     "conflict-files-obsidian-git.md",
     "files/Pasted image 20231217181138.png",
     "daily/2023-12-17.md",
@@ -205,7 +218,6 @@
     "Z-core/level 3.md",
     "Z-core/Выполненные объемы участками.md",
     "Z-core/Конфигурция оборудования.md",
-    "Z-core/О направлении информационного.md",
     "files/Pasted image 20231209100437.png",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
