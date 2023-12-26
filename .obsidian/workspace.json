@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ad27a07d708984b8",
+        "id": "8e737bec8e32d31d",
         "type": "tabs",
         "children": [
           {
-            "id": "9e76a19ce27ea3c9",
+            "id": "146d08b9794e8f19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/О применении ремней безопасности.md",
+                "file": "Z-core/Схема тренировок базового.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d4c48aa32de6da49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42514aa0fcfd4626",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00 ",
+                "query": "file: 00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/Схема тренировок базового.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
+                "file": "Z-core/Схема тренировок базового.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md"
+                "file": "Z-core/Схема тренировок базового.md"
               }
             }
           }
@@ -184,12 +160,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "42514aa0fcfd4626",
+  "active": "146d08b9794e8f19",
   "lastOpenFiles": [
-    "Z-core/00 Охрана труда.md",
+    "Z-core/00 Личное.md",
+    "Z-core/Схема тренировок базового.md",
+    "Z-core/00 СОТКА.md",
+    "Z-core/Трекинг программы СОТКА.md",
+    "Z-core/Leveling POE.md",
+    "Z-core/00 Game.md",
+    "Z-core/level 2.md",
     "Z-core/О применении ремней безопасности.md",
-    "templates/Инструктаж.md",
     "Z-core/Инструктажи ТБ.md",
+    "Z-core/00 Охрана труда.md",
+    "templates/Инструктаж.md",
     "Z-core/00 Инструктаж.md",
     "Z-core/О направлении информационного.md",
     "Z-core/Погодные условия.md",
@@ -205,13 +188,6 @@
     "Z-core/00 Объекты.md",
     "Z-core/00 Наладка.md",
     "Z-core/ЧПУ фрезер своими руками.md",
-    "Z-core/Корпоратив алкоголь.md",
-    "Z-core/00 Корпоратив 2023.md",
-    "Z-core/00 ЧПУ.md",
-    "templates/Daily note.md",
-    "Z-core/Трекинг программы СОТКА.md",
-    "daily/2023-12-17.md",
-    "Z-core/00 Трекинги.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",

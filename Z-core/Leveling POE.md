@@ -19,6 +19,7 @@ Tags: #article
 ---
 ### Zero-links
 
+- [[00 Личное]]
 - [[00 Game]]
 - [[00 Path of exile]]
 
