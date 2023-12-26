@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4c48aa32de6da49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Инструктажи ТБ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/О применении ремней безопасности.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/О применении ремней безопасности.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/О применении ремней безопасности.md"
+                "file": "Z-core/Инструктажи ТБ.md"
               }
             }
           }
@@ -161,12 +174,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9e76a19ce27ea3c9",
+  "active": "d4c48aa32de6da49",
   "lastOpenFiles": [
-    "templates/Инструктаж.md",
     "Z-core/00 Охрана труда.md",
-    "Z-core/Инструктажи ТБ.md",
     "Z-core/О применении ремней безопасности.md",
+    "templates/Инструктаж.md",
+    "Z-core/Инструктажи ТБ.md",
     "Z-core/00 Инструктаж.md",
     "Z-core/О направлении информационного.md",
     "Z-core/Погодные условия.md",
