@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Важные команды emacs.md",
+                "file": "Z-core/О направлении информационного.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e76a19ce27ea3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: 00",
+                "query": "file: 00 инстру",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Важные команды emacs.md",
+                "file": "Z-core/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Важные команды emacs.md",
+                "file": "Z-core/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Важные команды emacs.md"
+                "file": "Z-core/Untitled.md"
               }
             }
           }
@@ -161,13 +174,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "53c885ea940e993b",
+  "active": "9e76a19ce27ea3c9",
   "lastOpenFiles": [
+    "Z-core/О направлении информационного.md",
+    "Z-core/Untitled.md",
+    "templates/Инструктаж.md",
+    "Z-core/00 Инструктаж.md",
+    "Z-core/Важные команды emacs.md",
     "Z-core/00 Emacs.md",
     "Z-core/Конфигурция оборудования.md",
     "daily/2023-12-25.md",
     "Z-core/Кимчи.md",
-    "Z-core/Важные команды emacs.md",
     "Z-core/Emacs.md",
     "Z-core/Emacs shortcuts.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
@@ -185,11 +202,7 @@
     "Z-core/Схема тренировок базового.md",
     "Z-core/3 Правила.md",
     "Z-core/00 Воркаут.md",
-    "Z-core/00 Фитнес.md",
-    "Z-core/00 СОТКА.md",
     "files/Pasted image 20231217181138.png",
-    "Z-core/level 4.md",
-    "Z-core/00 Path of exile.md",
     "files/ugolok.stl",
     "files/t8nut50.stl",
     "files/t8_nut.stl",
