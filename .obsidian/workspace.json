@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9f6d855f7d899b84",
+        "id": "ad27a07d708984b8",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca45a31bbdfedf3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "63839c3375deb2b1",
+            "id": "53c885ea940e993b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Кимчи.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00 ",
+                "query": "file: 00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Кимчи.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Кимчи.md",
+                "file": "Z-core/Конфигурция оборудования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,18 +126,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Кимчи.md"
+                "file": "Z-core/Конфигурция оборудования.md"
               }
             }
           }
         ]
       },
       {
-        "id": "e24d981b09062941",
+        "id": "64ac1995a318a093",
         "type": "tabs",
         "children": [
           {
-            "id": "c133a0ed35b08ed1",
+            "id": "9b358ff691afadd2",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -160,59 +152,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "63839c3375deb2b1",
+  "active": "53c885ea940e993b",
   "lastOpenFiles": [
+    "daily/2023-12-25.md",
     "Z-core/Кимчи.md",
     "Z-core/Важные команды emacs.md",
-    "Z-core/00 Emacs.md",
-    "Z-core/Emacs shortcuts.md",
     "Z-core/Emacs.md",
-    "Z-core/Calendar.md",
-    "templates/Инструктаж.md",
-    "Z-core/Трекинг программы СОТКА.md",
-    "Z-core/00 Трекинги.md",
-    "Z-core/00 СОТКА.md",
-    "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
-    "daily/2023-12-03.md",
-    "daily/2023-12-17.md",
-    "daily/2023-12-25.md",
-    "daily/2023-11-20.md",
-    "daily/2023-12-02.md",
+    "Z-core/Emacs shortcuts.md",
+    "Z-core/00 Emacs.md",
+    "Z-core/Бобруйск Общежитие на Крылова.md",
+    "Z-core/Планы эвакуации.md",
+    "Z-core/Конфигурция оборудования.md",
+    "Z-core/00 Объекты.md",
+    "Z-core/00 Наладка.md",
     "Z-core/ЧПУ фрезер своими руками.md",
-    "conflict-files-obsidian-git.md",
-    "files/Pasted image 20231217181138.png",
-    "Z-core/Схема тренировок базового.md",
     "Z-core/Корпоратив алкоголь.md",
-    "Z-core/3 Правила.md",
-    "Z-core/00 Фитнес.md",
     "Z-core/00 Корпоратив 2023.md",
+    "Z-core/00 ЧПУ.md",
+    "templates/Daily note.md",
+    "Z-core/Трекинг программы СОТКА.md",
+    "daily/2023-12-17.md",
+    "Z-core/00 Трекинги.md",
+    "Z-core/Схема тренировок базового.md",
+    "Z-core/3 Правила.md",
     "Z-core/00 Воркаут.md",
+    "Z-core/00 Фитнес.md",
+    "Z-core/00 СОТКА.md",
+    "files/Pasted image 20231217181138.png",
+    "Z-core/level 4.md",
+    "Z-core/00 Path of exile.md",
     "files/ugolok.stl",
     "files/t8nut50.stl",
     "files/t8_nut.stl",
-    "files/Stoyka y motorR v2.stl",
-    "files/Stoyka y motorL v2.stl",
-    "files/Stoyka y bearing RR v2.stl",
-    "files/Stoyka y bearing LL v2.stl",
     "files/stol mount.stl",
     "files/shpindel lock.stl",
     "files/shpindel kar v2.stl",
-    "Z-core/level 1.md",
-    "Z-core/Лист покупок.md",
-    "files/Pasted image 20231209100437.png",
+    "files/ruchka Z.stl",
+    "files/portal 2 motor v2.stl",
+    "files/portal 2 bearing v2.stl",
+    "files/motor cover.stl",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
     "files/Pasted image 20231209100452.png",
+    "files/Pasted image 20231209100437.png",
     "files/Pasted image 20231126215142.png",
     "files/Pasted image 20231126214717.png",
     "files/Pasted image 20231114155856.png",
