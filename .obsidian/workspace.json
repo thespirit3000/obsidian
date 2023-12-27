@@ -11,8 +11,12 @@
             "id": "7ef21c7d14c03816",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -154,6 +162,10 @@
   },
   "active": "7ef21c7d14c03816",
   "lastOpenFiles": [
+    "Текстовый документ.txt",
+    "conflict-files-obsidian-git.md",
+    "Z-core/Фитинг паладина для 4 уровня миссий.md",
+    "Z-core/00 EVE online.md",
     "daily/2023-12-03.md",
     "Z-core/Лист покупок.md",
     "Z-core/Корпоратив алкоголь.md",
@@ -176,10 +188,6 @@
     "Z-core/00 СОТКА.md",
     "Z-core/Трекинг программы СОТКА.md",
     "Z-core/Leveling POE.md",
-    "Z-core/00 Game.md",
-    "Z-core/level 2.md",
-    "Z-core/О применении ремней безопасности.md",
-    "Z-core/00 Охрана труда.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
