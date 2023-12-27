@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4d221d36baf6c2b",
+        "id": "fa7598a5535323a5",
         "type": "tabs",
         "children": [
           {
-            "id": "7ef21c7d14c03816",
+            "id": "383b08496daa66d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +152,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ef21c7d14c03816",
+  "active": "383b08496daa66d6",
   "lastOpenFiles": [
-    "Текстовый документ.txt",
     "conflict-files-obsidian-git.md",
+    "Текстовый документ.txt",
     "Z-core/Фитинг паладина для 4 уровня миссий.md",
     "Z-core/00 EVE online.md",
     "daily/2023-12-03.md",
@@ -198,7 +190,6 @@
     "files/ruchka Z.stl",
     "files/portal 2 motor v2.stl",
     "files/portal 2 bearing v2.stl",
-    "files/motor cover.stl",
     "files/Pasted image 20231209100603.png",
     "files/Pasted image 20231209100536.png",
     "files/Pasted image 20231209100513.png",
