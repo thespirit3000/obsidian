@@ -36,6 +36,7 @@ There are many C-x commands.  Here is a list of the ones you have learned:
 	C-x C-c		Quit Emacs
 	C-x 1		Delete all but one window
 	C-x u		Und
+	C-x k  Kill buffer
 ---
 ### Zero-links
 
