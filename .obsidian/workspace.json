@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00 ",
+                "query": "00  em",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/Важные команды emacs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "Z-core/Важные команды emacs.md"
               }
             }
           }
@@ -176,8 +176,11 @@
   },
   "active": "95263c24147966df",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Z-core/00 Emacs.md",
+    "Z-core/Emacs shortcuts.md",
+    "Z-core/Важные команды emacs.md",
     "Z-core/ЧПУ фрезер своими руками.md",
+    "conflict-files-obsidian-git.md",
     "Z-core/00 ЧПУ.md",
     "daily/2023-12-03.md",
     "Z-core/Трекинг программы СОТКА.md",
@@ -186,9 +189,6 @@
     "Z-core/00 EVE online.md",
     "Z-core/Кимчи.md",
     "Z-core/О применении ремней безопасности.md",
-    "Z-core/Важные команды emacs.md",
-    "Z-core/00 Emacs.md",
-    "Z-core/Emacs shortcuts.md",
     "Z-core/Emacs.md",
     "Z-core/Calendar.md",
     "templates/Инструктаж.md",
