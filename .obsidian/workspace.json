@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95263c24147966df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "435c69d451773ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-12-03.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-12-03.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-12-03.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -161,10 +186,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8c7acc591ea9ece",
+  "active": "435c69d451773ad4",
   "lastOpenFiles": [
     "Z-core/ЧПУ фрезер своими руками.md",
+    "conflict-files-obsidian-git.md",
     "Z-core/00 ЧПУ.md",
+    "daily/2023-12-03.md",
     "Z-core/Трекинг программы СОТКА.md",
     "Z-core/Фитинг паладина для 4 уровня миссий.md",
     "Z-core/00 Личное.md",
@@ -180,12 +207,10 @@
     "Z-core/00 Трекинги.md",
     "Z-core/00 СОТКА.md",
     "Z-core/Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример.md",
-    "daily/2023-12-03.md",
     "daily/2023-12-17.md",
     "daily/2023-12-25.md",
     "daily/2023-11-20.md",
     "daily/2023-12-02.md",
-    "conflict-files-obsidian-git.md",
     "files/Pasted image 20231217181138.png",
     "Z-core/Схема тренировок базового.md",
     "Z-core/Корпоратив алкоголь.md",
