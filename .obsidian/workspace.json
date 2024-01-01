@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Важные команды emacs.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00  em",
+                "query": "00  чпу",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Важные команды emacs.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Важные команды emacs.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Важные команды emacs.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -176,12 +176,12 @@
   },
   "active": "95263c24147966df",
   "lastOpenFiles": [
+    "Z-core/00 ЧПУ.md",
+    "Z-core/Важные команды emacs.md",
     "Z-core/00 Emacs.md",
     "Z-core/Emacs shortcuts.md",
-    "Z-core/Важные команды emacs.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "conflict-files-obsidian-git.md",
-    "Z-core/00 ЧПУ.md",
     "daily/2023-12-03.md",
     "Z-core/Трекинг программы СОТКА.md",
     "Z-core/Фитинг паладина для 4 уровня миссий.md",
