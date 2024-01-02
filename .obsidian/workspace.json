@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4157c29c37973c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77269f3856eac6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ecad3f9afc13c0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Погодные условия.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Погодные условия.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Погодные условия.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,8 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "383b08496daa66d6",
+  "active": "0ecad3f9afc13c0a",
   "lastOpenFiles": [
+    "Z-core/ЧПУ фрезер своими руками.md",
+    "conflict-files-obsidian-git.md",
+    "Z-core/00 ЧПУ.md",
+    "Z-core/Погодные условия.md",
     "Z-core/Инструктажи ТБ.md",
     "Z-core/Кимчи.md",
     "Z-core/Конфигурция оборудования.md",
@@ -170,7 +211,6 @@
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/На маркетплейсах с Лео Шевченко.md",
     "Z-core/Настройка LOTUS.md",
-    "conflict-files-obsidian-git.md",
     "Текстовый документ.txt",
     "Z-core/Фитинг паладина для 4 уровня миссий.md",
     "Z-core/00 EVE online.md",
@@ -186,9 +226,6 @@
     "Z-core/00 Obsidian.md",
     "Z-core/00 Youtube.md",
     "Z-core/00 Zettelkasten.md",
-    "Z-core/Схема тренировок базового.md",
-    "Z-core/00 Личное.md",
-    "Z-core/00 СОТКА.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
