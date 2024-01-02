@@ -11,8 +11,12 @@
             "id": "383b08496daa66d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Погодные условия.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z-core/Погодные условия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z-core/Погодные условия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z-core/Погодные условия.md"
+              }
             }
           }
         ]
@@ -154,17 +162,20 @@
   },
   "active": "383b08496daa66d6",
   "lastOpenFiles": [
+    "Z-core/Инструктажи ТБ.md",
+    "Z-core/Кимчи.md",
+    "Z-core/Конфигурция оборудования.md",
+    "Z-core/Корпоратив алкоголь.md",
+    "Z-core/Лист покупок.md",
+    "Z-core/Маринованные шампиньоны.md",
+    "Z-core/На маркетплейсах с Лео Шевченко.md",
+    "Z-core/Настройка LOTUS.md",
     "conflict-files-obsidian-git.md",
     "Текстовый документ.txt",
     "Z-core/Фитинг паладина для 4 уровня миссий.md",
     "Z-core/00 EVE online.md",
     "daily/2023-12-03.md",
-    "Z-core/Лист покупок.md",
-    "Z-core/Корпоратив алкоголь.md",
-    "Z-core/Конфигурция оборудования.md",
-    "Z-core/Кимчи.md",
     "Z-core/Выполненные объемы участками.md",
-    "Z-core/Инструктажи ТБ.md",
     "Z-core/Важные команды emacs.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/100 промптов для ChatGPT.md",
@@ -178,8 +189,6 @@
     "Z-core/Схема тренировок базового.md",
     "Z-core/00 Личное.md",
     "Z-core/00 СОТКА.md",
-    "Z-core/Трекинг программы СОТКА.md",
-    "Z-core/Leveling POE.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
