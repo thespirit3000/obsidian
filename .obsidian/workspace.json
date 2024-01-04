@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8231137020aba6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Телефоны.md",
+                "file": "Z-core/00 СОТКА.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Телефоны.md",
+                "file": "Z-core/00 СОТКА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Телефоны.md",
+                "file": "Z-core/00 СОТКА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Телефоны.md"
+                "file": "Z-core/00 СОТКА.md"
               }
             }
           }
@@ -173,9 +160,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8231137020aba6d",
+  "active": "77269f3856eac6c7",
   "lastOpenFiles": [
+    "Z-core/Трекинг программы СОТКА.md",
+    "Z-core/00 СОТКА.md",
     "daily/2024-01-04.md",
+    "Z-core/00 Телефоны.md",
     "Z-core/Телефоны.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "conflict-files-obsidian-git.md",
@@ -199,9 +189,6 @@
     "Z-core/100 промптов для ChatGPT.md",
     "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
     "Z-core/3 Правила.md",
-    "Z-core/00 GTD.md",
-    "Z-core/00 Lotus.md",
-    "Z-core/00 Obsidian.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
