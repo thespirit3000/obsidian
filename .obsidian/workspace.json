@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8231137020aba6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Телефоны.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-04.md",
+                "file": "Z-core/Телефоны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-04.md",
+                "file": "Z-core/Телефоны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-04.md"
+                "file": "Z-core/Телефоны.md"
               }
             }
           }
@@ -160,10 +173,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "77269f3856eac6c7",
+  "active": "b8231137020aba6d",
   "lastOpenFiles": [
-    "Z-core/ЧПУ фрезер своими руками.md",
     "daily/2024-01-04.md",
+    "Z-core/Телефоны.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
     "conflict-files-obsidian-git.md",
     "Z-core/00 ЧПУ.md",
     "Z-core/Погодные условия.md",
@@ -188,7 +202,6 @@
     "Z-core/00 GTD.md",
     "Z-core/00 Lotus.md",
     "Z-core/00 Obsidian.md",
-    "Z-core/00 Youtube.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
