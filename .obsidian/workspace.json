@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "daily/2024-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "daily/2024-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "daily/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "daily/2024-01-04.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "77269f3856eac6c7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Z-core/ЧПУ фрезер своими руками.md",
+    "daily/2024-01-04.md",
+    "conflict-files-obsidian-git.md",
     "Z-core/00 ЧПУ.md",
     "Z-core/Погодные условия.md",
     "Z-core/Инструктажи ТБ.md",
@@ -188,7 +189,6 @@
     "Z-core/00 Lotus.md",
     "Z-core/00 Obsidian.md",
     "Z-core/00 Youtube.md",
-    "Z-core/00 Zettelkasten.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
