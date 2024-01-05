@@ -11,12 +11,8 @@
             "id": "77269f3856eac6c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/00 СОТКА.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/00 СОТКА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/00 СОТКА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z-core/00 СОТКА.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,8 +154,8 @@
   },
   "active": "77269f3856eac6c7",
   "lastOpenFiles": [
-    "Z-core/Трекинг программы СОТКА.md",
     "Z-core/00 СОТКА.md",
+    "Z-core/Трекинг программы СОТКА.md",
     "daily/2024-01-04.md",
     "Z-core/00 Телефоны.md",
     "Z-core/Телефоны.md",
