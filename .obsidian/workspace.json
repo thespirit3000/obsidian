@@ -11,8 +11,12 @@
             "id": "77269f3856eac6c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Бобруйск Общежитие на Крылова.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z-core/Бобруйск Общежитие на Крылова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z-core/Бобруйск Общежитие на Крылова.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z-core/Бобруйск Общежитие на Крылова.md"
+              }
             }
           }
         ]
@@ -154,6 +162,9 @@
   },
   "active": "77269f3856eac6c7",
   "lastOpenFiles": [
+    "Z-core/Планы эвакуации.md",
+    "Z-core/Бобруйск Общежитие на Крылова.md",
+    "Z-core/00 Болид.md",
     "Z-core/00 СОТКА.md",
     "Z-core/Трекинг программы СОТКА.md",
     "daily/2024-01-04.md",
@@ -177,10 +188,7 @@
     "daily/2023-12-03.md",
     "Z-core/Выполненные объемы участками.md",
     "Z-core/Важные команды emacs.md",
-    "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/100 промптов для ChatGPT.md",
-    "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
-    "Z-core/3 Правила.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
