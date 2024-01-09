@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa7598a5535323a5",
+        "id": "624aa55c96d48300",
         "type": "tabs",
         "children": [
           {
-            "id": "77269f3856eac6c7",
+            "id": "ca8b2cf4ed919b04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/О применении ремней безопасности.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/О применении ремней безопасности.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/О применении ремней безопасности.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/О применении ремней безопасности.md"
+                "file": "Z-core/Инструктажи ТБ.md"
               }
             }
           }
@@ -160,11 +160,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "77269f3856eac6c7",
+  "active": "ca8b2cf4ed919b04",
   "lastOpenFiles": [
-    "Z-core/Инструктажи ТБ.md",
-    "Z-core/Погодные условия.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
+    "Z-core/Инструктажи ТБ.md",
+    "Z-core/О применении ремней безопасности.md",
+    "Z-core/Погодные условия.md",
     "Z-core/Планы эвакуации.md",
     "Z-core/00 Болид.md",
     "Z-core/00 СОТКА.md",
@@ -188,7 +189,6 @@
     "daily/2023-12-03.md",
     "Z-core/Выполненные объемы участками.md",
     "Z-core/Важные команды emacs.md",
-    "Z-core/100 промптов для ChatGPT.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
