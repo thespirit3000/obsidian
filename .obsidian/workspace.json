@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Погодные условия.md",
+                "file": "Z-core/О применении ремней безопасности.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Погодные условия.md",
+                "file": "Z-core/О применении ремней безопасности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Погодные условия.md",
+                "file": "Z-core/О применении ремней безопасности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Погодные условия.md"
+                "file": "Z-core/О применении ремней безопасности.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   "active": "77269f3856eac6c7",
   "lastOpenFiles": [
     "Z-core/Инструктажи ТБ.md",
+    "Z-core/Погодные условия.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/Планы эвакуации.md",
     "Z-core/00 Болид.md",
@@ -174,7 +175,6 @@
     "Z-core/ЧПУ фрезер своими руками.md",
     "conflict-files-obsidian-git.md",
     "Z-core/00 ЧПУ.md",
-    "Z-core/Погодные условия.md",
     "Z-core/Кимчи.md",
     "Z-core/Конфигурция оборудования.md",
     "Z-core/Корпоратив алкоголь.md",
