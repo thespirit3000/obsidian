@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "3c185149468450ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3bedb3025eb7ff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c5525495ebe9a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f05319d270eeda28",
+    "type": "split",
+    "children": [
+      {
+        "id": "a904ada9bc96dd8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca650f393a866e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ebf9df9ece65054",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file: 00",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edb3dcc2a41c3843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aac70db385944696",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5fe88f2bf479566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663d8fb1e9517b5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9a1df3950d7b1b40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "640ebe2560da7e98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abf9f2307039dc76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "64ac1995a318a093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b358ff691afadd2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "f4c5525495ebe9a7",
+  "lastOpenFiles": [
+    "Z-core/Zettelkasten и Обсидиан.md",
+    "Z-core/TensorFlow для начинающих..md",
+    "Z-core/TensorFlow.md",
+    "Z-core/Leveling POE.md",
+    "Z-core/level 5.md",
+    "Z-core/level 3.md",
+    "Z-core/level 2.md",
+    "Z-core/Emacs shortcuts.md",
+    "Z-core/Blender tutorials.md",
+    "Z-core/Школа Kaino - курс Dungeon.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
+    "Z-core/Трекинг программы СОТКА.md",
+    "Z-core/Телефоны.md",
+    "Z-core/схема GTD.md",
+    "Z-core/Схема тренировок базового.md",
+    "Z-core/Планы эвакуации.md",
+    "Z-core/О направлении информационного.md",
+    "Z-core/Настройка LOTUS.md",
+    "Z-core/На маркетплейсах с Лео Шевченко.md",
+    "Z-core/Маринованные шампиньоны.md",
+    "Z-core/Лист покупок.md",
+    "Z-core/Конфигурция оборудования.md",
+    "Z-core/Кимчи.md",
+    "Z-core/Инструктажи ТБ.md",
+    "Z-core/Выполненные объемы участками.md",
+    "Z-core/9 вещей которые вы должны знать о TensorFlow.md",
+    "Текстовый документ.txt",
+    "files/Pasted image 20231217181138.png",
+    "files/ugolok.stl",
+    "files/t8nut50.stl",
+    "files/t8_nut.stl",
+    "files/stol mount.stl",
+    "files/shpindel lock.stl",
+    "files/shpindel kar v2.stl",
+    "files/ruchka Z.stl",
+    "files/portal 2 motor v2.stl",
+    "files/portal 2 bearing v2.stl",
+    "files/Pasted image 20231209100603.png",
+    "files/Pasted image 20231209100536.png",
+    "files/Pasted image 20231209100513.png",
+    "files/Pasted image 20231209100452.png",
+    "files/Pasted image 20231209100437.png",
+    "files/Pasted image 20231126215142.png",
+    "files/Pasted image 20231126214717.png",
+    "files/Pasted image 20231114155856.png",
+    "files/Pasted image 20231114122939.png"
+  ]
+}

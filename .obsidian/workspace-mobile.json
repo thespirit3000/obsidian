@@ -11,8 +11,12 @@
             "id": "9be930aefa20ebc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Z-core/ЧПУ фрезер своими руками.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Z-core/ЧПУ фрезер своими руками.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,6 +113,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "Z-core/ЧПУ фрезер своими руками.md"
+          }
+        }
+      },
+      {
+        "id": "9fe6404e82b89535",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
           "state": {}
         }
       }
@@ -120,11 +136,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "9be930aefa20ebc9",
   "lastOpenFiles": [
+    "Z-core/00 ЧПУ.md",
     "Z-core/Бобруйск Общежитие на Крылова.md",
     "Z-core/Выполненные объемы участками.md",
     "Z-core/Конфигурция оборудования.md",
