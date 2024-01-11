@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/КРаспознование текста в python с помощью библиотеки EasyOCR.md",
+                "file": "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/КРаспознование текста в python с помощью библиотеки EasyOCR.md",
+                "file": "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/КРаспознование текста в python с помощью библиотеки EasyOCR.md",
+                "file": "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/КРаспознование текста в python с помощью библиотеки EasyOCR.md"
+                "file": "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "f4c5525495ebe9a7",
   "lastOpenFiles": [
+    "Z-core/00 Python.md",
+    "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
+    "Z-core/00  Разработка.md",
     "Z-core/00 Порядок.md",
-    "Z-core/КРаспознование текста в python с помощью библиотеки EasyOCR.md",
     "Z-core/Zettelkasten и Обсидиан.md",
     "Z-core/TensorFlow для начинающих..md",
     "Z-core/TensorFlow.md",
@@ -186,8 +188,6 @@
     "Z-core/Маринованные шампиньоны.md",
     "Z-core/Лист покупок.md",
     "Z-core/Конфигурция оборудования.md",
-    "Z-core/Кимчи.md",
-    "Z-core/Инструктажи ТБ.md",
     "Текстовый документ.txt",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
