@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "167c9b53713771ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Main pygame file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
+                "file": "Z-core/Main pygame file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
+                "file": "Z-core/Main pygame file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md"
+                "file": "Z-core/Main pygame file.md"
               }
             }
           }
@@ -160,10 +173,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f4c5525495ebe9a7",
+  "active": "167c9b53713771ac",
   "lastOpenFiles": [
-    "Z-core/00 Python.md",
+    "Z-core/Без названия.md",
+    "Z-core/Main pygame file.md",
     "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
+    "Z-core/00 Python.md",
     "Z-core/00  Разработка.md",
     "Z-core/00 Порядок.md",
     "Z-core/Zettelkasten и Обсидиан.md",
@@ -186,8 +201,6 @@
     "Z-core/Настройка LOTUS.md",
     "Z-core/На маркетплейсах с Лео Шевченко.md",
     "Z-core/Маринованные шампиньоны.md",
-    "Z-core/Лист покупок.md",
-    "Z-core/Конфигурция оборудования.md",
     "Текстовый документ.txt",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
