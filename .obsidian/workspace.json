@@ -175,6 +175,7 @@
   },
   "active": "fbc49674cef872fc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Z-core/00 ЧПУ.md",
     "conflict-files-obsidian-git.md",
     "Z-core/100 промптов для ChatGPT.md",
@@ -182,6 +183,13 @@
     "Z-core/Без названия.md",
     "Z-core/Main pygame file.md",
     "Z-core/00  Разработка.md",
+=======
+    "daily/2023-12-03.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
+    "Z-core/00 ЧПУ.md",
+    "Z-core/Main pygame file.md",
+    "Z-core/Без названия.md",
+>>>>>>> f624c5291967e384d7be89387250c166156e1ae5
     "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
     "Z-core/00 Python.md",
     "Z-core/Zettelkasten и Обсидиан.md",
@@ -194,13 +202,16 @@
     "Z-core/Emacs shortcuts.md",
     "Z-core/Blender tutorials.md",
     "Z-core/Школа Kaino - курс Dungeon.md",
-    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/Трекинг программы СОТКА.md",
     "Z-core/Телефоны.md",
     "Z-core/схема GTD.md",
     "Z-core/Схема тренировок базового.md",
     "Z-core/Планы эвакуации.md",
     "Z-core/О направлении информационного.md",
+<<<<<<< HEAD
+=======
+    "Z-core/Настройка LOTUS.md",
+>>>>>>> f624c5291967e384d7be89387250c166156e1ae5
     "Текстовый документ.txt",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
