@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Main pygame file.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Main pygame file.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Main pygame file.md",
+                "file": "Z-core/ЧПУ фрезер своими руками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Main pygame file.md"
+                "file": "Z-core/ЧПУ фрезер своими руками.md"
               }
             }
           }
@@ -175,8 +175,11 @@
   },
   "active": "167c9b53713771ac",
   "lastOpenFiles": [
-    "Z-core/Без названия.md",
+    "daily/2023-12-03.md",
+    "Z-core/ЧПУ фрезер своими руками.md",
+    "Z-core/00 ЧПУ.md",
     "Z-core/Main pygame file.md",
+    "Z-core/Без названия.md",
     "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
     "Z-core/00 Python.md",
     "Z-core/00  Разработка.md",
@@ -191,7 +194,6 @@
     "Z-core/Emacs shortcuts.md",
     "Z-core/Blender tutorials.md",
     "Z-core/Школа Kaino - курс Dungeon.md",
-    "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/Трекинг программы СОТКА.md",
     "Z-core/Телефоны.md",
     "Z-core/схема GTD.md",
@@ -199,8 +201,6 @@
     "Z-core/Планы эвакуации.md",
     "Z-core/О направлении информационного.md",
     "Z-core/Настройка LOTUS.md",
-    "Z-core/На маркетплейсах с Лео Шевченко.md",
-    "Z-core/Маринованные шампиньоны.md",
     "Текстовый документ.txt",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
