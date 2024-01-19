@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4e69e6175a06d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/PLAFON - Канал о линуксе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/PLAFON - Канал о линуксе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/PLAFON - Канал о линуксе.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "Z-core/PLAFON - Канал о линуксе.md"
               }
             }
           }
@@ -155,6 +168,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e4337b3b1db60db",
-  "lastOpenFiles": []
+  "active": "c4e69e6175a06d06",
+  "lastOpenFiles": [
+    "Z-core/00 Linux.md",
+    "Z-core/PLAFON - Канал о линуксе.md",
+    "Z-core/ЧПУ фрезер своими руками.md"
+  ]
 }
