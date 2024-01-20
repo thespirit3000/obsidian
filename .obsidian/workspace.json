@@ -47,8 +47,12 @@
             "id": "ef674ab0450c6853",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z-core/Нааполитанская пицца - тесто.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -81,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: 00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/Нааполитанская пицца - тесто.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md",
+                "file": "Z-core/Нааполитанская пицца - тесто.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,16 +171,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/ЧПУ фрезер своими руками.md"
+                "file": "Z-core/Нааполитанская пицца - тесто.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +195,7 @@
   },
   "active": "ef674ab0450c6853",
   "lastOpenFiles": [
+    "Z-core/00 Рецепты.md",
     "Z-core/Нааполитанская пицца - тесто.md",
     "Z-core/Plafon - gitbook.md",
     "Z-core/PLAFON - Канал о линуксе.md",
