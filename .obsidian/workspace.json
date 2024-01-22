@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-core/Нааполитанская пицца - тесто.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Нааполитанская пицца - тесто.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Нааполитанская пицца - тесто.md",
+                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-core/Нааполитанская пицца - тесто.md"
+                "file": "Z-core/Инструктажи ТБ.md"
               }
             }
           }
@@ -176,12 +175,15 @@
   },
   "active": "95263c24147966df",
   "lastOpenFiles": [
+    "Z-core/02-28 419.md",
+    "Z-core/Инструктажи ТБ.md",
+    "Z-core/00 Инструктаж.md",
+    "Z-core/Нааполитанская пицца - тесто.md",
     "Z-core/ЧПУ фрезер своими руками.md",
     "Z-core/Plafon - gitbook.md",
     "Z-core/Телефоны.md",
     "Z-core/Main pygame file.md",
     "Z-core/Распознование текста в python с помощью библиотеки EasyOCR.md",
-    "Z-core/Нааполитанская пицца - тесто.md",
     "Z-core/PLAFON - Канал о линуксе.md",
     "daily/2024-01-09.md",
     "daily/2024-01-04.md",
@@ -199,9 +201,6 @@
     "Z-core/О применении ремней безопасности.md",
     "Z-core/Emacs.md",
     "Z-core/Calendar.md",
-    "templates/Инструктаж.md",
-    "Z-core/00 Трекинги.md",
-    "Z-core/00 СОТКА.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
