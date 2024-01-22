@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6034e9beea491746",
+        "id": "ab0868e2528e1bf6",
         "type": "tabs",
         "children": [
           {
-            "id": "a8c7acc591ea9ece",
+            "id": "4713bc2d25ec0b58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-12-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95263c24147966df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-core/Инструктажи ТБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z-core/Инструктажи ТБ.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,10 +152,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95263c24147966df",
+  "active": "4713bc2d25ec0b58",
   "lastOpenFiles": [
-    "Z-core/02-28 419.md",
+    "daily/2023-12-03.md",
+    "templates/Инструктаж.md",
     "Z-core/Инструктажи ТБ.md",
+    "Z-core/02-28 419.md",
     "Z-core/00 Инструктаж.md",
     "Z-core/Нааполитанская пицца - тесто.md",
     "Z-core/ЧПУ фрезер своими руками.md",
@@ -192,7 +173,6 @@
     "Z-core/00 Emacs.md",
     "Z-core/Emacs shortcuts.md",
     "conflict-files-obsidian-git.md",
-    "daily/2023-12-03.md",
     "Z-core/Трекинг программы СОТКА.md",
     "Z-core/Фитинг паладина для 4 уровня миссий.md",
     "Z-core/00 Личное.md",
@@ -200,7 +180,6 @@
     "Z-core/Кимчи.md",
     "Z-core/О применении ремней безопасности.md",
     "Z-core/Emacs.md",
-    "Z-core/Calendar.md",
     "files/Pasted image 20231217181138.png",
     "files/ugolok.stl",
     "files/t8nut50.stl",
